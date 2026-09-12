@@ -1,8 +1,8 @@
 ---
 mindmap-plugin:
 type: mindmap
-mindmap-layout: balanced
-mindmap-theme: vibrant
+mindmap-layout: left
+mindmap-theme: midnight
 mindmap-line: curve
 mindmap-node: rounded
 ---
