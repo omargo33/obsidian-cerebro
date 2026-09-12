@@ -4,7 +4,6 @@ mindmap-layout: balanced
 mindmap-theme: slate
 mindmap-line: polyline-dashed
 mindmap-node: circle
-excalidraw-plugin: parsed
 ---
 # mindmap-plugin: basic
 ## Sub title
