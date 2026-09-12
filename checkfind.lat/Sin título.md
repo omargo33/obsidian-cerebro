@@ -1,6 +1,6 @@
 ---
 type: mindmap
-mindmap-layout: balanced
+mindmap-layout: tree
 mindmap-theme: midnight
 mindmap-line: polyline-dashed
 mindmap-node: square
