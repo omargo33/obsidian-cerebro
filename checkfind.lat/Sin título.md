@@ -4,7 +4,7 @@ type: mindmap
 mindmap-layout: balanced
 mindmap-theme: slate
 mindmap-line: polyline-dashed
-mindmap-node: rounded
+mindmap-node: borderless
 ---
 
 # mindmap-plugin: basic
