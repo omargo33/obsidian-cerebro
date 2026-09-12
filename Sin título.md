@@ -1,3 +1,0 @@
----
-excalidraw-plugin: parsed
----
