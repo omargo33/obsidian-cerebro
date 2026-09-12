@@ -1,5 +1,4 @@
 ---
-mindmap-plugin:
 type: mindmap
 mindmap-layout: balanced
 mindmap-theme: slate
