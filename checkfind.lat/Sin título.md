@@ -1,7 +1,7 @@
 ---
 type: mindmap
 mindmap-layout: balanced
-mindmap-theme: slate
+mindmap-theme: midnight
 mindmap-line: polyline-dashed
 mindmap-node: square
 ---
