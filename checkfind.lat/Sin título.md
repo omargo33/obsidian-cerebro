@@ -9,7 +9,7 @@ mindmap-node: circle
 # mindmap-plugin: basic
 ## Sub title
 - Sub title
-## New Title
+### New Title
 ## Sub title
 ## Sub title
 ## Sub title
