@@ -1,7 +1,7 @@
 ---
 mindmap-plugin:
 type: mindmap
-mindmap-layout: left
+mindmap-layout: balanced
 mindmap-theme: slate
 mindmap-line: curve
 mindmap-node: rounded
