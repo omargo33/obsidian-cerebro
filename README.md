@@ -1,0 +1,2 @@
+# cerebro
+Segundo Cerebro Obsidian
