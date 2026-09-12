@@ -7,7 +7,7 @@ mindmap-line: polyline-dashed
 mindmap-node: circle
 ---
 # mindmap-plugin: basic
-## Sub title
+## *Sub title*
 - Sub title
 ### New Title
 ## Sub title
