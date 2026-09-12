@@ -14,5 +14,6 @@ mindmap-node: circle
 ## New Title
 ## Sub title
 ## Sub title
+## New Title
 ## Sub title
 - Sub title
