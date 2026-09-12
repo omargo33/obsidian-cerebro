@@ -1,5 +1,5 @@
 ---
-mindmap-plugin: rich
+mindmap-plugin:
 ---
 
 # mindmap-plugin: basic
