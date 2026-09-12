@@ -10,6 +10,7 @@ mindmap-node: circle
 ## Sub title
 - Sub title
 ### New Title
+### New Title
 ## New Title
 ## Sub title
 ## Sub title
