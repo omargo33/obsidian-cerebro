@@ -3,7 +3,7 @@ type: mindmap
 mindmap-layout: balanced
 mindmap-theme: slate
 mindmap-line: polyline-dashed
-mindmap-node: circle
+mindmap-node: square
 ---
 # mindmap-plugin: basic
 ## Sub title
