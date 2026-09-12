@@ -3,7 +3,7 @@ mindmap-plugin:
 type: mindmap
 mindmap-layout: balanced
 mindmap-theme: slate
-mindmap-line: curve
+mindmap-line: polyline-dashed
 mindmap-node: rounded
 ---
 
