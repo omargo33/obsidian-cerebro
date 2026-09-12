@@ -11,3 +11,4 @@ mindmap-plugin: rich
 ## Sub title
 
 ## Sub title
+- Sub title
