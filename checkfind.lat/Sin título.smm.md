@@ -1,0 +1,20 @@
+---
+path: checkfind.lat/Sin título.smm.md
+tags:
+  - simplemindmap
+type: mindmap
+mindmap-layout: tree
+mindmap-theme: midnight
+mindmap-line: polyline-dashed
+mindmap-node: square
+---
+> Do not modify any information except YAML
+# metadata
+```metadata
+N4IgTg9hAuIFygCYENrPqArgS0fEAxgMwAcALCUQKYkC0AZsgKwBMtZAbPU7cgOwAjAIy1KfRAE5kHDixaImIADQhoVAB6w4IALbYAdoh3IADrRMAbTAHMDcAAQDkAZ2wEQAXxUEAFtguIYFT68ADaSKjoCCA4eNpCRPQkQkzI9LQcTEQS7CQSfKIsBBy0QmREAvRCyMgCAAwSHMqqGlogAMqYAvbQ2NAWVJ7efgFBIXDhIChoGDG4+IhCEkxkfJwMQgIlZAJUBKJCLGTsKCRrElTInHzNapr4nd29/YNehCOBwWEAul4RM9FYvhKrVkAoqLQCCkeGRDiJkEQOIhaJcCPQiAQ+EI+GsiLdWvgAHJUADu9gAKn0BkN3v5PuNQr8lP8olh5vEmCgqFQBPs+NQCmQ6txaJUqERaKREERSNUiLCSPj7tpiWTKS8ab46WMfh4mSzZkDtPw0YkOCIFDt2JU2BIBBIJSxBIcWHkqBIhPQlW1VRSqa9htqvhN9VNIob2SAWIlEK6OAJaEwlulykISvUBGxWJIMQiiMgSF6VHc2o8ev7NR8dSG/mGAWy4iAhNUBNQmHymJz2DycsgHfsJIhiOQSAImIw8cWCdoy89qW8taNg4za9NWXNGxJMQ66q7RX39mQWFtRHUOHQSMlMRj5Wc8FPlSBfer54GlwzQ2uI420iRMTRkF4bltkyHJW2PWhhQEPgCEQTNxGqb0Hi6csNQXKtlwNQFI3oO0OD4QcITTCQ2DIK5jjvCVBwI8dpSTAR7xaR9ZwrdCgw/PVV3DbDGyIaMknoOoIQIFYJU4Eg6loKQJHSTsBGg8odmqdAHx9Uk/TQt96V1JkQAsZAAE8IEwNoLAgWwCGQCx2mgMBMAIaBMCCW4fCoHRBmiNQdEsVAPMIfTnFcdxvAgfR6GwawMA8aKgA==
+```
+# svgdata
+![[.smm-embed-image-files/Sin título.svg]]
+> updateAt: 2026-09-12 00:09:29
+# linkdata
+# textdata
