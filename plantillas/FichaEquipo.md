@@ -29,4 +29,7 @@ tags:
 
 - **$HOME/.customConfig**: para personalizar la configuración alterando lo menos posible los  servicios. 
 
-### Tareas
+## 🏁 Tareas
+>[!Warning]
+>*Borrarme*: 
+>Presiona  ` ctrl + p `  busca *"task"* y selecciona: *"Create edit Task"*
