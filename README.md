@@ -26,10 +26,10 @@
 
 Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.com/mimocode) y tiene la configurado:
 
-```markdown
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
-```
+
 ### Skill
 
 #### Archify 
