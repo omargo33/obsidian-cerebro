@@ -5,7 +5,7 @@ fecha: 2026-09-13
 ---
 ## AWS
 
-Servicios comprados en AWS
+Servicios comprados en AWS y sus 
 
 ## 🏁 Tareas
 
