@@ -7,9 +7,8 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 
 <div style="background-color: #2a2d32; padding: 20px; border-radius: 8px; margin: 15px 0;">
 
-<br>
-
 ## Descripción
+
 ### Como
 
 Rol que voy a tomar, ejemplo: *Como usuario*
