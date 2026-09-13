@@ -15,7 +15,7 @@ fecha: 2026-09-13
 	- [ ] email
 - [ ] Instalar `manager` [due:: 2206-09-13]
 	- [ ] Usar Docker
-	- [ ] 
+	- [ ] USar Keu
 ## Ideas
 
 ### Tareas Pendientes
