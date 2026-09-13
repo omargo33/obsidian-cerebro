@@ -1,5 +1,5 @@
 ---
-aliases: "@Data"
+aliases:
 tags:
 type: mindmap
 ---
