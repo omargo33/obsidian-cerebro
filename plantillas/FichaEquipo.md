@@ -9,7 +9,7 @@ tags:
 |        Nombre | Valor |
 | ------------: | ----- |
 | **Propósito** |       |
-|            Ip |       |
+|        **Ip** |       |
 |    Puerto ssh |       |
 |       Usuario |       |
 |           S.O |       |
