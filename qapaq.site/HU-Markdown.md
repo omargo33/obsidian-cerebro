@@ -3,7 +3,7 @@ tags:
   - hu
 fecha: 2026-09-13
 ---
-# *API distribulle Markdown*
+# *API distribuye Markdown*
 ## Descripción
 
 |   Elemento | Descripcion                                                                |
