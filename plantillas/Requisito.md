@@ -8,7 +8,7 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 
 >[!Warning]
 >*Borrarme*: 
->Presiona  ` ctrl + p `  busca .
+>Presiona  ` ctrl + p `  busca "".
 
 ---
 
