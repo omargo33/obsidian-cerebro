@@ -1,4 +1,4 @@
-# cerebro
+# Cerebro
 Segundo Cerebro Obsidian
 
 ## 
