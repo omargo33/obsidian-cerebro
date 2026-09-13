@@ -11,6 +11,7 @@
 ``` tasks
 not done
 due before next week
-group by function task.status.
+group by function task.status.typeGroupText
+
 
 ```
