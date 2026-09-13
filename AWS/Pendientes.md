@@ -15,7 +15,7 @@ El servicio SES requiere de dos  configuraciones la primera para interactuar con
 
 ### SMTP
 
-Para smtp, se debe configurar desde "SMTP de Mail Manager" en "Configuración de SMTP"
+Para smtp, se debe configurar desde "SMTP de Mail Manager" en "Configuración de SMTP" se deb
 ### API
 
 ## 🏁 Tareas
