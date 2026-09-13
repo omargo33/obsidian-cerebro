@@ -37,6 +37,8 @@ Resultado Esperado: *Una dirección que pueda compartir por diversos medios*
 - Que el botón de compartir se haga visible el momento que este listo el envio
 
 
+</details>
+
 ## 🏁 Tareas
 >[!Warning]
 >*Borrarme*: 
