@@ -28,5 +28,7 @@ Para API,  se debe configurar desde "Credenciales SMTP de IAM" en "Configuració
 >[!Warning]- *Borrarme*: 
 >Presiona  ` ctrl + p `  busca *"task"* y selecciona: *"Create edit Task"*
 
+
+
 ---
 ### 💡Ideas
