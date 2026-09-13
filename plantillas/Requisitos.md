@@ -3,8 +3,8 @@
 
 >[!NOTE]
 >Borrame: 
->Para generar una tarea pon el siguiente codigo  ` * [ ]
-> ```
+>Para generar una tarea pon el siguiente codigo  ` * [ ] `
+
 
 
  
