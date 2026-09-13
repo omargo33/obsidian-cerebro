@@ -17,6 +17,7 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 - Que el botón de compartir se haga visible el momento que este listo el envió
 
 ## 🏁 Tareas
+
 >[!Warning]- *Borrarme*: 
 >Presiona  ` ctrl + p `  busca *"task"* y selecciona: *"Create edit Task"*
 
