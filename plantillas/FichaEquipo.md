@@ -23,4 +23,4 @@
 - lolcat
 
 ### Config Files
-- 
+- $HOME/.com
