@@ -37,16 +37,6 @@ Este contenido también estará oculto por defecto.
 <details open>
 <summary> Descripción </summary>
 
-## Descripción
-### Como
-
-Rol que voy a tomar, ejemplo: *Como usuario*
-### Quiero
-
-Acción o funcionalidad, ejemplo: *Solicitar un nuevo link temporizado*
-### Para
-
-Resultado Esperado: *Una dirección que pueda compartir por diversos medios*
 
 </details>
 <details>
