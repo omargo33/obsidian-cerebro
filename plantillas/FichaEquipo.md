@@ -1,2 +1,3 @@
 # Ficha de equipo
 
+|nombre
