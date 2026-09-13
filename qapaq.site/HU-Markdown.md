@@ -13,7 +13,7 @@ fecha: 2026-09-13
 |   **Para** | Facilitar la presentación de detalle                                       |
 ## Criterio Aceptación 
 
-1. ==Que el botón de compartir se haga visible== el momento que este listo el envió
+1. ==En el api== el momento que este listo el envió
 2. 
 ---
 ## 🏁 Tareas
