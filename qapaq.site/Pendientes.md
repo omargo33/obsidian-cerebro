@@ -20,13 +20,3 @@ fecha: 2026-09-13
 
 ### Tareas Pendientes
 
-``` tasks
-not done
-due before next week
-group by function task.status.typeGroupText
-group by tags
-sort by priority
-sort by due
-sort by scheduled
-
-```
