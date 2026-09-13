@@ -1,8 +1,10 @@
 ---
 Fecha:
-  - {{date}}
+  - "{ date }":
 aliases:
   - "@Data"
+tags:
+  - config
 ---
 
 
