@@ -1,0 +1,44 @@
+---
+path: checkfind.lat/configuracion.md
+tags:
+  - simplemindmap
+  - config
+type: mindmap
+mindmap-layout: tree
+mindmap-theme: midnight
+mindmap-line: polyline-dashed
+mindmap-node: square
+---
+> Do not modify any information except YAML
+# metadata
+```metadata
+N4IgNghgng9grgFxALnDA5gSwMYTAZQQCc5sE4iBTEAGhCJhiWVABMIEIVQ5NWUQ2AMwAOACwihlEQFoAZhACsAJhliAbHMUyIAdgBGARhmTdrAJwR165ctaLaIBJQAezEAB4ADgD5sAC0psAGsAMUwAO1YAOkgEDwB6X0dXLwgolGI4SjoiHH8AFVdmLJyQTABnAEEyTAA3amQFMAqyzABbdABZCC9uAF86OSpKADkYVkoCkYqUAG0AXUHBf0wwVioI+bYOLhYQXn5UQ0MIfSlFbBldRUVWNUp9cx1zISvzVmFxEX1FBSFHM43AJvD4IlgIi5EslcvkisDkKU6Kl0kckeVqrUGihmq06KxMEQBHl0P4kMsAmsNpQtsg5jtONwDnwBIYhHIRIZFBA5DJ1IohM8JOZdCZlNh1DJDGIhPo5KczgAGczqQHFEG+AAKMCInEilCI0J8jjyAXhJRIZRRGURlrolRqCHqjVxZQJRNQJLJIApq3Wm3mSxoDL2oCB7lBAGlKFBsGAYBBgkbHIcBJQeYZsLpzKp1IqzGp1JRKDJzOYJTIs9ZWMo2UWxIYUi40jb0abCurbdl7ZindimnhWr6qQG6SGmeGNT4EIF2pRk3RU6hFJyxKw5NhtIYc6KxJRFUIZL92TJKOZlT8IDX1DKmy20Xb6HDO+iHViXYPKMP/TTA4Nx/sk6oKClDtBAawLsyRwgKwmhXnI+iKjociKryYiKoY+gmPouiiiI2CUMoUi6OoQiZtQyLNqimSPu25o0d2GKOs6OKft+1K0os/4wbsE6dp4vhUHg7SQUuIC6NgTyUEIiqyCINz3OhciqL8yiirokiGAeujKHI1Z3tRXZlHRL6Pm+fYfi0X50JSP6cUsQYAWG/GggA6o8oksqgVjsjWmZSqw8lqIYyhISIGEQNcirqCKKHpoR/CUfeDHGc+CKvr2LEDlZ7GjlxwY8YygEub4VSagAkp50FmCIKgiEEMjinpagSJKTxynyigqphOZBHIugGa2tFpRajHmVlrq5b+dKOYVoZOCVPgAO6PDIFQVP4lZgJgNLxEkxqLl5IBiOYWh6bJfJaYpIWyBAWlyZm/WUHIEiwaqSWGW2I0pT2zH9pNNl+hxf6zewRU8EdejYHI7LqMY9hiFhiPKaWTyHmpRi2CI5hnoYchqgiAk+NqFQIOgVAVJBJnpY+1oPmNmX/Z++KEgIYDPeSgMjtN+VOVBAhEXINYiOoWGKNuaFkW1ir6KoKgWG8EBCEIEAiPjdBAUTABKlAEpT+0mt9RkfUNDN/ZZeIwaznqYKSnMrNz9n9EGTizo0zntF4cSNDxRDBO9ggwBEci2wMyx1DtS0TkQ6QVHIOrtEyFS4OzAAaKCGHQyd4JQACaGdZ4EEAeoquRMBwjSl04McRBU3vp8gMjK7oGs13XFf543yhiNEih0DqtuRA3VcDxCndV3smcgPoKBV9gs/4gXICNE3QgtyA+Ndz3ijLKTFdJynjRTy4KCr+vUCn93vdZyfjeiEIWcX43Yi6L3/Tv0AA=
+```
+# svgdata
+![[.smm-embed-image-files/Sin título.svg]]
+> updateAt: 2026-09-12 00:09:29
+# linkdata
+# textdata
+checkFind.lat ^c38483e8-fa52-46f5-a7b1-837d9a6622d5
+
+nginx ^11ab3e5c-755d-4eb9-a93c-9dc3848b5fa3
+
+Portainer ^13f815af-6539-4897-82c6-143bf1aab096
+
+Keycloak ^eaf1c792-607d-46ee-99c6-c766d2136e41
+
+theme ^5814dfc5-1927-4e03-b53f-e9098bad2643
+
+email ^d6fadfb0-af0f-401b-8b77-8ce23e7631ce
+
+realm ^7cb9e308-875d-40f2-b527-78310372f66d
+
+Web ^a63fd21c-1d87-4120-801a-70697f0eae2d
+
+API ^7d8528ec-2cf6-4486-b9bf-65961b92ecf7
+
+web-ssh-client ^49f5f608-610d-4128-a108-81cf7ef48d66
+
+Postgres ^a7cf3f61-d54b-4bf2-9b93-27b12289e91f
+
+Redis ^23fd286b-519f-4316-b0b2-52d93ca33a8f
