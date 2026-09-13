@@ -1,3 +1,7 @@
+---
+tags:
+  - general
+---
 # Cerebro
 
 *Segundo Cerebro*
