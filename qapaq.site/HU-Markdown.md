@@ -1,6 +1,5 @@
 ---
 tags:
-  - requisitos
   - hu
 fecha: 2026-09-13
 ---
