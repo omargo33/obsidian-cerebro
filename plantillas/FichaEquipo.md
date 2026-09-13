@@ -15,8 +15,8 @@ tags:
 |        **S.O** |       |
 |        **KVM** |       |
 |    **Memoria** |       |
-|        **Disco |       |
-|     Procesador |       |
+|      **Disco** |       |
+| **Procesador** |       |
 ### Github Runners
 
 | Nombre | Funcion | Path |
