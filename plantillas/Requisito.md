@@ -3,8 +3,6 @@ tags:
   - config
 ---
 
-
-<code>Etiquetas:</code> #config 
 ## Tareas
 
 >[!Warning]
