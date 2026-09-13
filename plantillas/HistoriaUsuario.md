@@ -6,11 +6,6 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 # Titulo *Nuevo link*
 
 
-> [!info]- Título del desplegable
-> ## Mi Subtítulo
-> Este es el contenido.
-
-
 <details open>
 <summary><b>Opción 1 (Inicia abierta)</b></summary>
 <br>
