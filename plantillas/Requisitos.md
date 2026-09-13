@@ -4,8 +4,7 @@
 >[!NOTE]
 >Borrame: 
 > ``` markdown
-> * *
-
+> * [ ]
 
 > ```
 
