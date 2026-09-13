@@ -1,4 +1,9 @@
-<div style="background-image: url('https://picsum.photos'); background-size: cover; background-position: center; padding: 60px 20px; text-align: center; border-radius: 8px;"> <h1 style="color: white; font-size: 32px; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); margin: 0;"> Mi Título Sobre la Imagen </h1> </div>
+<div style="background-image: url('triangles-triangles-v2.png'); background-size: cover; background-position: center; padding: 60px 20px; text-align: center; border-radius: 8px;">
+  <h1 style="color: white; font-size: 32px; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); margin: 0;">
+    Mi Título Sobre la Imagen
+  </h1>
+</div>
+
 
 # Cerebro
 
