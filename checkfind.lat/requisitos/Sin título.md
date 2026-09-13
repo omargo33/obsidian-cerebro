@@ -1,7 +1,10 @@
 ---
 Fecha:
+  "{ date }":
 tags:
 cssclasses:
+aliases:
+  - "@Data"
 ---
 
 
