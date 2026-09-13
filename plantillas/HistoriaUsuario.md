@@ -9,7 +9,7 @@ Rol que voy a tomar, ejemplo: *Como usuario*
 
 ## Quiero
 
-Que quiiero 
+Accion o funcionalidad
 
 
 
