@@ -15,6 +15,7 @@ fecha: 2026-09-13
 
 1. ==En el api== Se solicita un json GET, con un atributo con el contenido de .md.
 2. El contenido esta codificado para ser leido desde una carpeta del sistema operativo
+3. El ciente web debe poder llamar est
 ---
 ## 🏁 Tareas
 
