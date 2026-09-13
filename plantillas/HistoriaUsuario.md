@@ -7,14 +7,14 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 
 ## Descripción
 
-| Elemento | Descripcion                                      |
-| -------- | ------------------------------------------------ |
-| ### Como | Rol que voy a tomar, ejemplo: *Como usuario*<br> |
-|          |                                                  |
+| Elemento   | Descripcion                                      |
+| ---------- | ------------------------------------------------ |
+| ### Como   | Rol que voy a tomar, ejemplo: *Como usuario*<br> |
+| ### Quiero |                                                  |
 
 
 
-### Quiero
+
 
 Acción o funcionalidad, ejemplo: *Solicitar un nuevo link temporizado*
 
