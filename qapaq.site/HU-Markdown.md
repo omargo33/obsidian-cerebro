@@ -30,7 +30,7 @@ fecha: 2026-09-13
 		- [ ] Ley de datos publicos
 			- [ ] Contenido hero
 			- [ ] Contenido Scraping
-			- [ ] Contn
+			- [ ] Contenido Qbic
 
 ---
 ### 💡Ideas
