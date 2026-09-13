@@ -9,7 +9,7 @@ fecha: 2026-09-13
 |   Elemento | Descripcion                                                       |
 | ---------: | ----------------------------------------------------------------- |
 |   **Como** | Como usuario del sitio de landingpage                             |
-| **Quiero** | Quiero Solicitar información de la empresa via correo(telefonico) |
+| **Quiero** | Quiero Solicitar información de la empresa vía correo(telefónico) |
 |   **Para** | Facilitar la presentación de detalle                              |
 ## Criterio Aceptación 
 
