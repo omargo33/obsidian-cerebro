@@ -22,7 +22,7 @@ tags:
 | Nombre                    | Funcion       | Path                            |
 | ------------------------- | ------------- | ------------------------------- |
 | action-runner-database-v1 | base de datos | $HOME/action-runner-database-v1 |
-| action-runner-manager     | manager JAVA  |                                 |
+| action-runner-manager     | manager JAVA  | $HOME/action-runner-            |
 ## APP's S.O.
 - **lolcat**: visualización arco iris. 
 
