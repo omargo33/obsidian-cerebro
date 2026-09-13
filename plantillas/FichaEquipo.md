@@ -19,7 +19,6 @@
 | ---------- | ----- |
 | Propósito  |       |
 | Ip         |       |
-| Puerto ssh |       |
 | Usuario    |       |
 | S.O        |       |
 | KVM        |       |
