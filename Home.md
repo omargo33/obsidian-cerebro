@@ -3,7 +3,7 @@
 # has tags
 # description includes #Personal
 #(due this week) or (scheduler this week)
-group 
+group by function t
 
 
 ````
