@@ -1,8 +1,4 @@
 ---
-Fecha:
-  - "{ date }":
-aliases:
-  - "@Data"
 tags:
   - config
 ---
