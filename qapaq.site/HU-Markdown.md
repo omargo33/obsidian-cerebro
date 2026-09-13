@@ -28,6 +28,7 @@ fecha: 2026-09-13
 	- [ ] Implementar en:
 		- [ ] Políticas de seguridad
 		- [ ] Ley de datos publicos
+		- [ ] Contenido
 			- [ ] Contenido hero
 			- [ ] Contenido Scraping
 			- [ ] Contenido Qbic
