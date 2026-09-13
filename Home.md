@@ -1,14 +1,3 @@
 ``` tasks
-
-# has tags
-# description includes #Personal
-# (due this week) or (scheduled this week)
-group by function task.status.typeGroupText
-group by function 
-# Group by folder
-group by tags
-sort by priority
-sort by due
-sort by scheduled
-
+```tasks [#has](https://www.youtube.com/hashtag/has) tags [#description](https://www.youtube.com/hashtag/description) includes [#Personal](https://www.youtube.com/hashtag/personal) #(due this week) OR (scheduled this week) group by function task.status.type [#Group](https://www.youtube.com/hashtag/group) by folder group by tags sort by priority sort by due sort by scheduled ```
 ```
