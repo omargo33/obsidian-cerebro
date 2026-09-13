@@ -12,6 +12,7 @@ El servicio SES requiere de dos  configuraciones la primera para interactuar con
 
 > [!NOTE]
 > - Esta anclado a mi usuario  <omargo33@gmail.com> y al tarjeta de **Bankard**
+> - Ambas confi
 
 ### SMTP
 
