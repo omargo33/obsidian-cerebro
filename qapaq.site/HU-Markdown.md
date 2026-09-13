@@ -24,7 +24,7 @@ fecha: 2026-09-13
 
 - [ ] Crear API de markdonw  [priority:: medium]  [due:: 2026-09-13]
 	- [ ] Asegurar el API
-	- [ ] Implement
+	- [ ] Implementar API-REST client
 
 ---
 ### 💡Ideas
