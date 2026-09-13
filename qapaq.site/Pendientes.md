@@ -16,4 +16,3 @@ fecha: 2026-09-13
 	- [ ] Usar Docker
 	- [ ] USar Keycloak [due:: 2206-09-13]
 ## Ideas
-El 
