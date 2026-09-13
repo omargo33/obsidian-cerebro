@@ -26,9 +26,6 @@ Resultado Esperado: *Una dirección que pueda compartir por diversos medios*
 
 </div>
 
-> [!note] 
-> ## 📌 Mi Sección Destacada
-> Aquí el formato **Markdown** (incluyendo títulos, listas y negritas) se respeta al 100% de forma nativa sin romper el editor.
 
 ## Criterio Aceptación 
 
