@@ -15,13 +15,7 @@
 | Procesador |       |
 ### Github Runners
 
-| Nombre     | Valor |
-| ---------- | ----- |
-| Propósito  |       |
-| Ip         |       |
-| Usuario    |       |
-| S.O        |       |
-| KVM        |       |
-| Memoria    |       |
-| Disco      |       |
-| Procesador |       |
+| Nombre    | Valor |
+| --------- | ----- |
+| Propósito |       |
+| Ip        |       |
