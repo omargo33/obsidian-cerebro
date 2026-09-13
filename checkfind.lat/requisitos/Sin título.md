@@ -2,7 +2,7 @@
 Fecha:
 tags:
 cssclasses:
-  - ".markdown-preview-view.fondo-verde,.markdown-source-view.fondo-verde .cm-scroller {    background-color: green !important;}"
+  - ".fondo-verde {    background-color: green;}"
 ---
 
 
