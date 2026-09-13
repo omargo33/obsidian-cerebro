@@ -9,7 +9,7 @@ Servicios comprados en AWS y sus configuraciones
 
 ### Servicio de Correo `SES`
 
-El servicio SES requiere de dos  configuraciones la priemera para interactuar con API y la segunda con SMTP
+El servicio SES requiere de dos  configuraciones la primera para interactuar con API y la segunda con SMTP
 
 ## 🏁 Tareas
 
