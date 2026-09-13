@@ -6,7 +6,7 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 # Titulo *Nuevo link*
 
 
-> Título del desplegable
+> [!info]- Título del desplegable
 > ## Mi Subtítulo
 > Este es el contenido.
 
