@@ -21,7 +21,7 @@ fecha: 2026-09-13
 ## 🏁 Tareas
 
 - [ ] Crear API para envio de correo [priority:: medium]  [due:: 2026-09-13]
-	- [ ] Envioar correo
+	- [ ] Envioar correos con formato
 
 ---
 ### 💡Ideas
