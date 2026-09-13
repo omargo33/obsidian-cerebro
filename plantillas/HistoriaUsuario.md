@@ -16,7 +16,6 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 
 
 
-Acción o funcionalidad, ejemplo: *Solicitar un nuevo link temporizado*
 
 ### Para
 
