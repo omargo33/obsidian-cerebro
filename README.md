@@ -1,5 +1,7 @@
-![[triangles-triangles-v2.png]]
 # Cerebro
+
+![[triangles-triangles-v2.png]]
+
 Segundo Cerebro Obsidian
 
 ## Configuración
