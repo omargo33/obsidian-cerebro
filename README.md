@@ -30,7 +30,7 @@ Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.
 
 **Archify** https://github.com/tt-a1i/archify 
 
-**promt**: 
+**promt**: Tengo ester
 
 ---
 *2026-09-12*<br/>**#omargo33**
