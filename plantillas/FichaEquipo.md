@@ -1,5 +1,7 @@
 # Ficha de equipo
 
+### Informacion del Servidor
+
 | Nombre     | Valor |
 | ---------- | ----- |
 | Propósito  |       |
