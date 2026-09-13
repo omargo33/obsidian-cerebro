@@ -1,6 +1,6 @@
 ---
 Fecha:
-  - { {date }
+  - {{date}}
 aliases:
   - "@Data"
 ---
