@@ -3,7 +3,7 @@ tags:
   - requisitos
 fecha: 2026-09-13
 ---
-## AWS
+# AWS
 
 Servicios comprados en AWS y sus configuraciones
 
