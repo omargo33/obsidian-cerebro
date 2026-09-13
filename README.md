@@ -17,7 +17,7 @@ Segundo Cerebro Obsidian
 - **Repositorio**: https://github.com/omargo33
 - **Qapaq**: https://qapaq.site/
 - **CheckFind**: https://www.checkfind.lat/
-- **Diseno**: [38Sigios]
+- **Diseno**: [38Sigios](https://www.reddit.com/r/webdev/comments/15x3eph/38_websites_you_can_use_for_cool_backgrounds/?tl=es-419)
 
 ---
 *2026-09-12*<br/>
