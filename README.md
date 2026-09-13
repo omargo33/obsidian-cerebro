@@ -22,5 +22,9 @@
 - **AWS**: https://aws.amazon.com/
 - **JDK-25**: [Descarga](https://www.oracle.com/java/technologies/javase/jdk25-archive-downloads.html)
 ---
+<p align="center">
+  <img src="triangles-triangles-v2.png" alt="Título del Proyecto" width="100%">
+</p>
+
 *2026-09-12*<br/>
 **#omargo33**
