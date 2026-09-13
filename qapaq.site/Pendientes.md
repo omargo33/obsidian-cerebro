@@ -10,11 +10,11 @@ fecha: 2026-09-13
 	- [ ] bases de datos
 	- [ ] Web-ssh
 	- [ ] Portainer
-- [ ] Crear Plantilla para keycloak
+- [ ] Crear Plantilla para keycloak [due:: 2206-09-13]
 	- [ ] Login
 	- [ ] email
-- [ ] Instalar `manager` 
-- [ ] 
+- [ ] Instalar `manager` [due:: 2206-09-13]
+	- [ ] 
 ## Ideas
 
 ### Tareas Pendientes
