@@ -19,9 +19,10 @@ tags:
 | Procesador | 2 vCores                                                                          |
 ### Github Runners
 
-| Nombre                    | Funcion       | Path   |
-| ------------------------- | ------------- | ------ |
-| action-runner-database-v1 | base de datos | $HOME/ |
+| Nombre                    | Funcion       | Path                            |
+| ------------------------- | ------------- | ------------------------------- |
+| action-runner-database-v1 | base de datos | $HOME/action-runner-database-v1 |
+|                           |               |                                 |
 ## APP's S.O.
 - **lolcat**: visualización arco iris. 
 
