@@ -22,7 +22,7 @@ fecha: 2026-09-13
 
 - [ ] Crear API para envio de correo [priority:: medium]  [due:: 2026-09-13]
 	- [ ] Enviar correo con formato al solicitante
-	- [ ] Enviar corr
+	- [ ] Enviar correos al team de 
 
 ---
 ### 💡Ideas
