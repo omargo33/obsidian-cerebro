@@ -23,15 +23,15 @@ fecha: 2026-09-13
 >Presiona  ` ctrl + p `  busca *"task"* y selecciona: *"Create edit Task"*
 
 - [ ] Crear API de markdonw  [priority:: medium]  [due:: 2026-09-13]
-	- [ ] Asegurar el API
-	- [ ] Implementar API-REST client 
-	- [ ] Implementar en:
-		- [ ] Políticas de seguridad
-		- [ ] Ley de datos publicos
-		- [ ] Contenido
-			- [ ] Contenido hero
-			- [ ] Contenido Scraping
-			- [ ] Contenido Qbic
+	- [ ] Asegurar el API  [due:: 2026-09-13]
+	- [ ] Implementar API-REST client  [due:: 2026-09-13]
+	- [ ] Implementar en:  [due:: 2026-09-13]
+		- [ ] Políticas de seguridad [due:: 2026-09-13]
+		- [ ] Ley de datos publicos [due:: 2026-09-13]
+		- [ ] Contenido [due:: 2026-09-13]
+			- [ ] Contenido hero [due:: 2026-09-13]
+			- [ ] Contenido Scraping [due:: 2026-09-13]
+			- [ ] Contenido Qbic [due:: 2026-09-13]
 
 ---
 ### 💡Ideas
