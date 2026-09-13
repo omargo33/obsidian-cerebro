@@ -28,4 +28,4 @@ fecha: 2026-09-13
 ---
 ### 💡Ideas
 
-Seria buena idea tener un solo ``
+Seria buena idea tener un solo `tool`
