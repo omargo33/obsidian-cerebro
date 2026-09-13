@@ -15,7 +15,8 @@ tags:
 - **Simple mind map**: https://github.com/wanglin2/obsidian-simplemindmap
 - **Git Sync**: https://github.com/livan116/github-valut-sync
 - **Plantila**: https://github.com/silentvoid13/Templater
-- **Tareas**: https://github.com/obsidian-tasks-group/obsidian-tasks
+- **Tareas**: 
+	- https://github.com/obsidian-tasks-group/obsidian-tasks
 ## 🌐 Links
 
 - **Cloud**: https://www.ovhcloud.com/es/
