@@ -24,7 +24,7 @@
 
 ## Mimo
 
-Para agen
+Para agente de IA de desarrollo se usa 
 
 ---
 *2026-09-12*<br/>**#omargo33**
