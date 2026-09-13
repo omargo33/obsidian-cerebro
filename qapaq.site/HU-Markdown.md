@@ -33,4 +33,4 @@ fecha: 2026-09-13
 ---
 ### 💡Ideas
 
-Seria buena idea que al no presentar o no encontrar el elemento, este  
+Seria buena idea que al no presentar o no encontrar el elemento, este  envie igual un 
