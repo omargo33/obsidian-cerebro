@@ -3,7 +3,7 @@
 
 >[!NOTE]
 >Borrame: 
->Para generar una tarea pon el siguiente codig 
+>Para generar una tarea pon el siguiente codigo  
 > ``` markdown
 > * [ ]
 > ```
