@@ -13,8 +13,8 @@ tags:
 | **Puerto ssh** |       |
 |    **Usuario** |       |
 |        **S.O** |       |
-|          **KVM |       |
-|        Memoria |       |
+|        **KVM** |       |
+|      **Memoria |       |
 |          Disco |       |
 |     Procesador |       |
 ### Github Runners
