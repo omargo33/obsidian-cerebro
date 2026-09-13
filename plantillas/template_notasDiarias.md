@@ -5,7 +5,6 @@
 ---
 ## Ideas
 
----
 
 ### Tareas Pendientes
 
