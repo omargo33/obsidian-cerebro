@@ -13,7 +13,8 @@ fecha: 2026-09-13
 - [ ] Crear Plantilla para keycloak
 	- [ ] Login
 	- [ ] email
-- [ ] Instalar `manager` from 
+- [ ] Instalar `manager` 
+- [ ] 
 ## Ideas
 
 ### Tareas Pendientes
