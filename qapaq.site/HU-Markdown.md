@@ -3,7 +3,7 @@ tags:
   - requisitos
 fecha: 2026-09-13
 ---
-# *Api Markdown*
+# *API dMarkdown*
 ## Descripción
 
 |   Elemento | Descripcion                                                                 |
