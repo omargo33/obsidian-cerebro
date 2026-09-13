@@ -1,7 +1,7 @@
 # Cerebro
 Segundo Cerebro Obsidian
 
-## Confi
+## Configuracion
 ## Notebook Navigator
 
 https://www.youtube.com/watch?v=m2maDNtho7Y
