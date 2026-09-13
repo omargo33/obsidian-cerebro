@@ -27,6 +27,7 @@ fecha: 2026-09-13
 	- [ ] Implementar API-REST client 
 	- [ ] Implementar en:
 		- [ ] Políticas de seguridad
+		- [ ] Ley de datos publicos
 		- [ ] 
 
 ---
