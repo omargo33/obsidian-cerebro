@@ -9,4 +9,4 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 >Presiona  ` ctrl + p `  busca *"task"* y selecciona: *"Create edit Task"*
 
 ---
-##💡Ideas
+## 💡Ideas
