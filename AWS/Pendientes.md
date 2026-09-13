@@ -21,8 +21,6 @@ Para smtp, se debe configurar desde "SMTP de Mail Manager" en "Configuración de
 
 Para API,  se debe configurar desde "Credenciales SMTP de IAM" en "Configuración de SMTP" se debe descargar el *.csv con la información del servidor* y luego se configura en el server de keycloak con estos datos.
 
-
-
 ## 🏁 Tareas
 
 - [ ] Crear una libreria comun para el envió de correos, configurable.  [priority:: highest]  [due:: 2026-09-13]
