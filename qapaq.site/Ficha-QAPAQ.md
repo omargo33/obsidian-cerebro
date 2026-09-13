@@ -37,7 +37,7 @@ tags:
 
 ## 🏁 Tareas
 
-Para ver las tareas pendiente de desarrollo y componetes [[Pendientes]]
+Para ver las tareas pendiente de desarrollo y componentes [[Pendientes]]
 Para las tareas de configuración, incluir a continuación:
 
 - [ ] Quitar Password y pasarlos por Screts github  [ priority:: high]   [due:: 2026-09-13]
