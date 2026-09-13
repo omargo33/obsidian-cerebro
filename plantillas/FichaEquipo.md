@@ -15,7 +15,6 @@
 | Procesador |       |
 ### Github Runners
 
-| Nombre    | Funcion | Path |
-| --------- | ------- | ---- |
-| Propósito |         |      |
-| Ip        |         |      |
+| Nombre | Funcion | Path |
+| ------ | ------- | ---- |
+
