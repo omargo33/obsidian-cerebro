@@ -3,7 +3,6 @@ tags:
   - requisitos
 fecha: 2026-09-13
 ---
-
 ## Tareas
 
 >[!Warning]
