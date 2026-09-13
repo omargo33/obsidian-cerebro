@@ -24,7 +24,7 @@
 
 ## Mimo
 
-Para 
+Para agen
 
 ---
 *2026-09-12*<br/>**#omargo33**
