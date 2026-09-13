@@ -13,6 +13,6 @@ sort by scheduled
 ```
 
 ``` tasks
-description in
+description includes 
 
 ```
