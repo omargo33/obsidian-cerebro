@@ -19,4 +19,6 @@ Segundo Cerebro Obsidian
 - **CheckFind**: https://www.checkfind.lat/
 
 ---
-
+![logo](recursos/13_256x256.png)<br/>
+*2024-09-30*<br/>
+**#omargo33**
