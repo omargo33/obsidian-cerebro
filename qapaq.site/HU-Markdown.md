@@ -33,3 +33,4 @@ fecha: 2026-09-13
 ---
 ### 💡Ideas
 
+seria buena idea que al no 
