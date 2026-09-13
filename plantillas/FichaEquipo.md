@@ -1,9 +1,9 @@
 # Ficha de equipo
 
-| Nombre    | Valor |
-| --------- | ----- |
-| Propósito |       |
-| Ip        |       |
-| Puerto    |       |
-|           |       |
-|           |       |
+| Nombre     | Valor |
+| ---------- | ----- |
+| Propósito  |       |
+| Ip         |       |
+| Puerto ssh |       |
+| usuario    |       |
+|            |       |
