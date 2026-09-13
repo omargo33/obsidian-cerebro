@@ -6,6 +6,7 @@
 group by function task.status.typeGroupTex
 #Group by folder
 group by tags
-sort by priofi
+sort by priority
+
 
 ````
