@@ -14,5 +14,5 @@ Segundo Cerebro Obsidian
 - **DNS**: https://www.namecheap.com/
 - **Repositorio**: https://github.com/omargo33
 - **Qapaq**: https://qapaq.site/
-- **Chenfind**: https://www.checkfind.lat/
+- **Checkfind**: https://www.checkfind.lat/
 
