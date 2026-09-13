@@ -5,7 +5,7 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 ---
 ## Como
 
-Rol que voy a tomar, ejemplo: 
+Rol que voy a tomar, ejemplo: *Como usuario*
 
 ## Quiero
 
