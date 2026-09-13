@@ -5,7 +5,7 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 ---
 # Titulo *Nuevo link*
 
-## Descripcion 
+## Descripción 
 ## Como
 
 Rol que voy a tomar, ejemplo: *Como usuario*
