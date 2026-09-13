@@ -5,5 +5,5 @@
 | Propósito  |       |
 | Ip         |       |
 | Puerto ssh |       |
-| usuario    |       |
+| Usuario    |       |
 |            |       |
