@@ -9,7 +9,7 @@
 ### Tareas Pendientes
 
 ``` tasks
-
+not done
 group by function task.status.typeGroupText
 group by tags
 sort by priority
