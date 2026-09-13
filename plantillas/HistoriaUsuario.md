@@ -9,10 +9,9 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 
 | Elemento | Descripcion |
 | -------- | ----------- |
-|          |             |
-### Como
+| ### Como |             |
 
-Rol que voy a tomar, ejemplo: *Como usuario*
+
 
 ### Quiero
 
