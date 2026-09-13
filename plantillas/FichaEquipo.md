@@ -19,7 +19,7 @@
 | ------ | ------- | ---- |
 |        |         |      |
 ## APP's S.O.
-- **lolcat**: visualizacion arcoiris 
+- **lolcat**: visualización arco iris 
 
 ### Config Files
 
