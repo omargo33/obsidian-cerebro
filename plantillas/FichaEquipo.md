@@ -1,4 +1,5 @@
 # Ficha de equipo
 
-|Nombre|Valor|
-|---|
+| Nombre | Valor |
+| ------ | ----- |
+|        |       |
