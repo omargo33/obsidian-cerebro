@@ -21,15 +21,7 @@ fecha: 2026-09-13
 ## 🏁 Tareas
 
 - [ ] Crear API de markdonw  [priority:: medium]  [due:: 2026-09-13]
-	- [ ] Asegurar el API  [due:: 2026-09-13]
-	- [ ] Implementar API-REST client  [due:: 2026-09-13]
-	- [ ] Implementar en:  [due:: 2026-09-13]
-		- [ ] Políticas de seguridad  [due:: 2026-09-13]
-		- [ ] Ley de datos publicos  [due:: 2026-09-13]
-		- [ ] Contenido  [due:: 2026-09-13]
-			- [ ] Contenido hero [due:: 2026-09-13]
-			- [ ] Contenido Scraping [due:: 2026-09-13]
-			- [ ] Contenido Qbic [due:: 2026-09-13]
+- 	- [ ] Contenido Qbic [due:: 2026-09-13]
 
 ---
 ### 💡Ideas
