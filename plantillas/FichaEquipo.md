@@ -14,8 +14,8 @@ tags:
 |    **Usuario** |       |
 |        **S.O** |       |
 |        **KVM** |       |
-|      **Memoria |       |
-|          Disco |       |
+|    **Memoria** |       |
+|        **Disco |       |
 |     Procesador |       |
 ### Github Runners
 
