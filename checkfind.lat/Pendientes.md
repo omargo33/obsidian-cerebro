@@ -10,8 +10,6 @@ fecha: 2026-09-13
 >*Borrarme*: 
 >Presiona  ` ctrl + p `  busca *"task"* y selecciona: *"Create edit Task"*
 
-- [ ] El sitio se dirija directamente al llamar al sitio, validar nginx  [due:: 2206-09-13]
-
 
 ## Ideas
 
