@@ -11,5 +11,6 @@ Segundo Cerebro Obsidian
 ## Links
 
 - **Cloud**: https://www.ovhcloud.com/es/
-- **DNS**: 
+- **DNS**: https://www.namecheap.com/
+- 
 
