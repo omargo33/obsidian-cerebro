@@ -19,7 +19,7 @@
 | ------ | ------- | ---- |
 |        |         |      |
 ## APP's S.O.
-- lolcat
+- **lolcat**: visualizacion
 
 ### Config Files
 
