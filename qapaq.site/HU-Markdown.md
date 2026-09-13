@@ -3,7 +3,7 @@ tags:
   - requisitos
 fecha: 2026-09-13
 ---
-# *Mark*
+# *Markdown*
 ## Descripción
 
 |   Elemento | Descripcion                                                                 |
