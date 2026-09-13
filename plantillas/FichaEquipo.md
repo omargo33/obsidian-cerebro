@@ -23,4 +23,4 @@
 
 ### Config Files
 
-- **$HOME/.customConfig**: para personalizar la configuracion 
+- **$HOME/.customConfig**: para personalizar la configuración denjan 
