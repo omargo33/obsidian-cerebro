@@ -10,8 +10,8 @@ tags:
 | ---------- | -------------- |
 | Propósito  | landigpage     |
 | Ip         | 142.44.241.249 |
-| Puerto ssh | 802            |
-| Usuario    |                |
+| Puerto ssh | 8022           |
+| Usuario    | debi           |
 | S.O        |                |
 | KVM        |                |
 | Memoria    |                |
