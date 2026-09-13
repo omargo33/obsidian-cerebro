@@ -28,7 +28,7 @@ fecha: 2026-09-13
 	- [ ] Implementar en:
 		- [ ] Políticas de seguridad
 		- [ ] Ley de datos publicos
-		- [ ] Presentacion d
+		- [ ] Presentacio
 
 ---
 ### 💡Ideas
