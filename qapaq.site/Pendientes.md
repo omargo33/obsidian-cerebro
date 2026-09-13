@@ -14,7 +14,8 @@ fecha: 2026-09-13
 	- [ ] bases de datos
 	- [ ] Web-ssh
 	- [ ] Portainer
-- [ ] Crear Plantilla para 
+- [ ] Crear Plantilla para keycloak
+	- [ ] 
 ## Ideas
 
 ### Tareas Pendientes
