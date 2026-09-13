@@ -14,7 +14,7 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 ## Criterio Aceptación 
 
 1. ==Que el botón de compartir se haga visible== el momento que este listo el envió
-2. 
+2. hiuolksaklj  ksjadklfj %%holaa%%
 ---
 ## 🏁 Tareas
 
