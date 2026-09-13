@@ -7,7 +7,7 @@ fecha: 2026-09-13
 
 Servicios comprados en AWS y sus configuraciones
 
-### Servicio de Correo `SES`
+## Servicio de Correo `SES`
 
 El servicio SES requiere de dos  configuraciones la primera para interactuar con API y la segunda con SMTP
 
