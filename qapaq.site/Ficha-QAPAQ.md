@@ -16,7 +16,7 @@ tags:
 |        **S.O** | debian                                                                            |
 |        **KVM** | https://manager.ca.ovhcloud.com/#/dedicated/vps/vps-65a90309.vps.ovh.ca/dashboard |
 |    **Memoria** | 4GB                                                                               |
-|          Disco | 40GB                                                                              |
+|      **Disco** | 40GB                                                                              |
 |     Procesador | 2 vCores                                                                          |
 ### Github Runners
 
