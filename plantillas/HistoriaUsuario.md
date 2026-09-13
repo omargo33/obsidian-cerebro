@@ -3,7 +3,7 @@ tags:
   - requisitos
 fecha: <% tp.date.now("YYYY-MM-DD") %>
 ---
-# Titulo (Nuevo li)
+# Titulo (Nuevo link)
 ## Como
 
 Rol que voy a tomar, ejemplo: *Como usuario*
