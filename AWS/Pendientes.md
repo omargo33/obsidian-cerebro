@@ -15,7 +15,7 @@ El servicio SES requiere de dos  configuraciones la primera para interactuar con
 
 ### SMTP
 
-Para smtp, se debe configurar desde "SMTP de Mail Manager" en "- [Configuración de SMTP](https://258704051622-5dqpsdgd.us-east-2.console.aws.amazon.com/ses/home?region=us-east-2#/smtp)"
+Para smtp, se debe configurar desde "SMTP de Mail Manager" en "Configuración de SMTP"
 ### API
 
 ## 🏁 Tareas
