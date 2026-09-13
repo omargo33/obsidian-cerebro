@@ -1,6 +1,6 @@
 # Ficha de equipo
 
-### Informacion del Servidor
+### Información del Servidor
 
 | Nombre     | Valor |
 | ---------- | ----- |
