@@ -8,9 +8,9 @@ tags:
 
 | Nombre     | Valor          |
 | ---------- | -------------- |
-| Propósito  | landipage      |
+| Propósito  | landigpage     |
 | Ip         | 142.44.241.249 |
-| Puerto ssh |                |
+| Puerto ssh | 802            |
 | Usuario    |                |
 | S.O        |                |
 | KVM        |                |
