@@ -5,6 +5,7 @@
 #(due this week) or (scheduler this week)
 group by function task.status.typeGroupTex
 #Group by folder
-group 
+group by tags
+sort by
 
 ````
