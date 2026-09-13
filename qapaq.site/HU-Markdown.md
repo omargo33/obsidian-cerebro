@@ -26,7 +26,7 @@ fecha: 2026-09-13
 	- [ ] Asegurar el API
 	- [ ] Implementar API-REST client 
 	- [ ] Implementar en:
-		- [ ] Politicas 
+		- [ ] Políticas de segu 
 
 ---
 ### 💡Ideas
