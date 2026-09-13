@@ -19,7 +19,7 @@
 | ------ | ------- | ---- |
 |        |         |      |
 ## APP's S.O.
-- **lolcat**: visualizacion
+- **lolcat**: visualizacion arcoh
 
 ### Config Files
 
