@@ -19,9 +19,6 @@ fecha: 2026-09-13
 ---
 ## 🏁 Tareas
 
->[!Warning]- *Borrarme*: 
->Presiona  ` ctrl + p `  busca *"task"* y selecciona: *"Create edit Task"*
-
 - [ ] Crear API de markdonw  [priority:: medium]  [due:: 2026-09-13]
 	- [ ] Asegurar el API  [due:: 2026-09-13]
 	- [ ] Implementar API-REST client  [due:: 2026-09-13]
