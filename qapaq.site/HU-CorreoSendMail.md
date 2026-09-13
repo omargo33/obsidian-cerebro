@@ -20,7 +20,7 @@ fecha: 2026-09-13
 ---
 ## 🏁 Tareas
 
-- [ ] Crear API de markdonw  [priority:: medium]  [due:: 2026-09-13]
+- [ ] Crear API para envio de correo [priority:: medium]  [due:: 2026-09-13]
 -[ ] Contenido Qbic [due:: 2026-09-13]
 
 ---
