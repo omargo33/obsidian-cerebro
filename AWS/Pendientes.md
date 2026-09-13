@@ -15,7 +15,8 @@ El servicio SES requiere de dos  configuraciones la primera para interactuar con
 
 ### SMTP
 
-### 
+
+### API
 
 ## 🏁 Tareas
 
