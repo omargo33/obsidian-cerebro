@@ -1,7 +1,4 @@
 ---
-aliases:
-tags:
-type: mindmap
 ---
 
 
