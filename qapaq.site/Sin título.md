@@ -26,7 +26,7 @@ tags:
 | action-runner-site-v1     | Web           | $HOME/action-runner-site-v1     |
 ## APP's S.O.
 - **lolcat**: visualización arco iris. 
-- tree: visualizar árbol 
+- **tree**: visualizar árbol 
 - **htop**: visualizar procesos
 
 ### Config Files
