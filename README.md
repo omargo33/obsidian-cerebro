@@ -1,4 +1,4 @@
-
+![[triangles-triangles-v2.png]]
 # Cerebro
 Segundo Cerebro Obsidian
 
