@@ -14,6 +14,7 @@ due before next week
 group by function task.status.typeGroupText
 group by tags
 sort by priority
-sort by duye
+sort by due
+sort by sc
 
 ```
