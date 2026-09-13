@@ -10,7 +10,7 @@ fecha: 2026-09-13
 >Presiona  ` ctrl + p `  busca *"task"* y selecciona: *"Create edit Task"*
 
 - [ ] El sitio se "Forward" directamente al llamar al sitio, validar nginx  [due:: 2206-09-13]
-- [ ] Asegurar los puertos de mis productos de bases de datos y 
+- [ ] Asegurar los puertos de mis productos 
 ## Ideas
 
 ### Tareas Pendientes
