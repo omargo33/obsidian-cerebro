@@ -1,9 +1,6 @@
 # Cerebro
 
 *Segundo Cerebro*
-<p align="center">
-  <img src="triangles-triangles-v2.png" alt="Título del Proyecto" width="100%">
-</p>
 ## Configuración
 
 - **Navigator**: 
