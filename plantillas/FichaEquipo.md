@@ -8,6 +8,6 @@
 | Usuario    |       |
 | S.O        |       |
 | KVM        |       |
-|            |       |
+| Memoria    |       |
 |            |       |
 |            |       |
