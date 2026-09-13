@@ -8,7 +8,7 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 
 >[!Warning]
 >*Borrarme*: 
->Presiona  ` ctrl  ` y los estados de las tareas son `[ ]` :creada,  `[x]` :terminada,  `[/]` :en proceso, y;  `[-]` :cancelada.
+>Presiona  ` ctrl + p ` y los estados de las tareas son `[ ]` :creada,  `[x]` :terminada,  `[/]` :en proceso, y;  `[-]` :cancelada.
 
 ---
 
