@@ -17,6 +17,7 @@ tags:
 - **Plantila**: https://github.com/silentvoid13/Templater
 - **Tareas**: 
 	- https://github.com/obsidian-tasks-group/obsidian-tasks
+	- https://www.youtube.com/watch?v=jTT8P1nFIOM&t=1687s
 ## 🌐 Links
 
 - **Cloud**: https://www.ovhcloud.com/es/
