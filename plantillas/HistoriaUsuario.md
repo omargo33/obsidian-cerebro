@@ -19,6 +19,8 @@ Resultado Esperado: *Una dirección que pueda compartir por diversos medios*
 ## Criterio Aceptación 
 
 
+
+
 ## 🏁 Tareas
 >[!Warning]
 >*Borrarme*: 
