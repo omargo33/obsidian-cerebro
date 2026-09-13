@@ -1,0 +1,43 @@
+---
+path: checkfind.lat/configuracion.md
+tags:
+  - simplemindmap
+type: mindmap
+mindmap-layout: tree
+mindmap-theme: midnight
+mindmap-line: polyline-dashed
+mindmap-node: square
+---
+> Do not modify any information except YAML
+# metadata
+```metadata
+N4IgNghgng9grgFxALhAWwJYDsAmBZCABxABoQAnGGJZUHCBCFUODHFEAYwGYAOAFl7cAprwC0AMwgBWAExj+ANgnSxEAOwAjAIxih6nAE4IixbNk5ppEAmEAPGiAA8hAHycAFsM4BrAGLYOAB0kAhOAPRu1vaEELgoCORwwmTkGJ4AKvY0iclkGADOAIKcCBgAbsIoUmAFKSAYaADmBMS0AL5kEuTCwgByMDjCGT3CBSgA2gC6nVweGGA4PViTdAxMtCCs7Kja3BK82tIQEmKK0tyGCryG6nqynIpi2vzcmhLaEBCaAAyGitZbA4OC5XABlOCaAAEZQQYGEESiqXSHiywOQuXqMTiO0x+WKpQqVWQNTqZBwGHIHDSTQ8SFmngWS2EK2QEzWjGYWzYHBw2kM0n46iUkm0mie/E03j02lk/AU9F4wsMwggSnUgOyILcEOhsPhiNc1jSmS1GKSWLssXi5ryDQJZUq1QgtWEDPmi2WkxmJA5GxYPNQ72+EEswjEnCOqn4st0EG4ihwYlVnAk3E46m06mF3E16Ocbj6wgA7lCMhg4QjIkbkab0XiQNibQ3CiVHcTSW6yIzPSzvZ0/VzthwjvReppOGJ1CI7vwfioxO9hNwxHwcNw+J9uDHeHnHKCi6Xy5XDcaUWichayE3cVf7W2ic7Xe6mV62TMfYPNsPUBpU/tFF0SxJQUd55EMTRDBXWQtFlWQbmEQxtAkPdtVcQ8ywrA1qzPOtLztG8EjvVtCSdEkXTJEAKSpVAaTpEAX17VlpgHKj1iHQMQFkfYcHgxRNDEaR+VOV5tCeX5NHkOQjHTeNuAgXgULIIF9x1SEYSwqskQoc8zQbQjbXqEj2yfSjqOpDBaXpbsPWZZjPzYzlv047RPk0ERpEndRpGkJN+GESC1CgydDBwHgBF4TRpCkXNlLNAtwXU/UtJrHS8KIgirRxDKjIdR9yNdclKQsqyGJs18+3fVj6CcgMdhAQwMygn54MXCBGoUWRxT0H5FHEXhDgzdNtyVdg4vzA8S0wk8cNrVE9LvAyWzysjOyKmjwGECRrLmCr7Oq9jnPqk5eAzUQIDUXoJXOK53K6sR500dROBwSSDE+VDUFBXUNJm7STXm+tFqy5tiJWjsKPqczUHhbayt2pjVkc/1uXqiQIMUdRQvDMTDHkfg1XlUaV1CrHovXITNDGmx4u+pLNNPOaLxy68QdvO1jPyztGLs/sHJqlGfxAbhuIOCQfnDThBRXJReB+MRjEMU4fM0J7XklT4mHG1T0Km49sP+3Sgcy612dyh9Vsh9aOFhnae15qqfRsLw0GJUBbDQQhQmJNjyB8KxuxgLAJEs5h2lmcoMBLLlEjiAoJBgcg0C5ApOBdYQAA0UG0MhU/TgBNbPc68CAaJ+VJqAYYly5scg4+9rPkGeAblLrrACm9wum76shE8s7BG5rvummwLua42HOQE0FAa84GfySLxsUGb3gumXvrZgKRhbBTtP4UXuxl+0FuQCgdfV5AApD6b4+L4KM/u94cP2iAA=
+```
+# svgdata
+![[.smm-embed-image-files/Sin título.svg]]
+> updateAt: 2026-09-12 00:09:29
+# linkdata
+# textdata
+checkFind.lat ^c38483e8-fa52-46f5-a7b1-837d9a6622d5
+
+Sub title ^13f815af-6539-4897-82c6-143bf1aab096
+
+Sub title ^d1954746-f1b6-4bec-8124-4da8749ea467
+
+New Title ^bfabad5e-c155-4121-a36d-eacf3c717743
+
+New Title ^15daeebc-73e7-40f5-bfe3-38d3381a3418
+
+New Title ^a7cf3f61-d54b-4bf2-9b93-27b12289e91f
+
+Sub title ^23fd286b-519f-4316-b0b2-52d93ca33a8f
+
+Sub title ^11ab3e5c-755d-4eb9-a93c-9dc3848b5fa3
+
+New Title ^9c793028-ba9c-42b6-8068-881c73c3487d
+
+Sub title ^af8c7e8a-aee6-4659-b32b-0fb7cdb27d1a
+
+Sub title ^f9b679de-1692-4a44-87d3-9d795fd351bd
+
+New Title ^323f8f0e-c543-4680-9a9f-55bb7434b1aa
