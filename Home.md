@@ -8,6 +8,6 @@ group by function task.status.typeGroupTex
 group by tags
 sort by priority
 sort by due
-sort by 
+sort by scheduled
 
 ````
