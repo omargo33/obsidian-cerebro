@@ -1,5 +1,5 @@
 ---
-Fecha: {{{}}
+Fecha: {{date}}
 ---
 
 
