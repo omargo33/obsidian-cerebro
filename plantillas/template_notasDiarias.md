@@ -1,4 +1,4 @@
-<code>Etiquetas:</code> #
+<code>Etiquetas:</code> #config 
 
 # Tareas
 
