@@ -2,6 +2,7 @@
 Fecha:
   "{ date }":
 aliases:
+  - "@Data"
 ---
 
 
