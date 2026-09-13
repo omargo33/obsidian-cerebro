@@ -3,7 +3,7 @@
 # has tags
 # description includes #Personal
 #(due this week) or (scheduler this week)
-group by function task.
+group by function task.status.type
 
 
 ````
