@@ -8,7 +8,7 @@ fecha: 2026-09-13
 
 |   Elemento | Descripcion                                                                |
 | ---------: | -------------------------------------------------------------------------- |
-|   **Como** | Como usuario del sitio de landingpa                                        |
+|   **Como** | Como usuario del sitio de landingpage                                      |
 | **Quiero** | Quiero distribuir archivos Markdown para que se visualice en app web REACT |
 |   **Para** | Facilitar la presentación de detalle                                       |
 ## Criterio Aceptación 
