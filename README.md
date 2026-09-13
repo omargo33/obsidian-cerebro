@@ -29,7 +29,7 @@ tags:
 - **Coolors.co**: https://coolors.co/
 - **AWS**: https://aws.amazon.com/
 - **JDK-25**: [Descarga](https://www.oracle.com/java/technologies/javase/jdk25-archive-downloads.html)
-- **Texto ASCII para identificacion**: https://fsymbols.com/es/generadores/tarty/
+- **Texto ASCII para identificación**: https://fsymbols.com/es/generadores/tarty/
 ## 🤖 Mimo
 
 Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.com/mimocode) y tiene la configurado:
