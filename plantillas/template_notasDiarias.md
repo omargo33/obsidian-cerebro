@@ -1,6 +1,6 @@
 # Tareas
 
-<>code>
+<code>Etiquetas:</code>
 
 ---
 # Ideas
