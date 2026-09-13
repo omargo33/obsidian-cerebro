@@ -18,7 +18,4 @@ group by tags
 sort by priority
 sort by due
 sort by scheduled
-
-
-
 ```
