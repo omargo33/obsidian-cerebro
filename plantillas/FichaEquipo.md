@@ -10,4 +10,4 @@
 | KVM        |       |
 | Memoria    |       |
 | Disco      |       |
-|            |       |
+| Procesador |       |
