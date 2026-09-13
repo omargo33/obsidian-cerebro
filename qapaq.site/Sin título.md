@@ -14,7 +14,7 @@ tags:
 | Usuario    | debian                                                                            |
 | S.O        | debian                                                                            |
 | KVM        | https://manager.ca.ovhcloud.com/#/dedicated/vps/vps-65a90309.vps.ovh.ca/dashboard |
-| Memoria    |                                                                                   |
+| Memoria    | 4GB                                                                               |
 | Disco      |                                                                                   |
 | Procesador |                                                                                   |
 ### Github Runners
