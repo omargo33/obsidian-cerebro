@@ -2,8 +2,8 @@
 
 | Nombre    | Valor |
 | --------- | ----- |
-| Proposito |       |
-|           |       |
+| Propósito |       |
+| Ip        |       |
 |           |       |
 |           |       |
 |           |       |
