@@ -2,6 +2,7 @@
 Fecha:
 tags:
 cssclasses:
+  - '.markdown-preview-view.mi-fondo-local,.markdown-source-view.mi-fondo-local .cm-scroller {    background-image: url("app://local/C:/Ruta/A/Tu/Boveda/Imagenes/tu-imagen.jpg") !important;    background-size: cover;    background-position: center;    background-repeat: no-repeat;}'
 ---
 
 
