@@ -4,6 +4,9 @@ tags:
 fecha: <% tp.date.now("YYYY-MM-DD") %>
 ---
 ## 🏁 Como
+
+
+
 ## 🏁 Tareas
 >[!Warning]
 >*Borrarme*: 
