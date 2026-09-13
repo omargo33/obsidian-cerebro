@@ -17,7 +17,7 @@ Segundo Cerebro Obsidian
 - **Repositorio**: https://github.com/omargo33
 - **Qapaq**: https://qapaq.site/
 - **CheckFind**: https://www.checkfind.lat/
-- **Diseno**: []
+- **Diseno**: [38Sigios]
 
 ---
 *2026-09-12*<br/>
