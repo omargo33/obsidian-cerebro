@@ -2,7 +2,8 @@
 
 # has tags
 # description includes #Personal
-#(due this week) or (scheduler this w)
+#(due this week) or (scheduler this week)
+group 
 
 
 ````
