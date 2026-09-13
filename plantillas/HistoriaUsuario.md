@@ -34,18 +34,6 @@ Este contenido también estará oculto por defecto.
 </details>
 
 
-<details>
-<summary>Haz clic aquí</summary>
-
-<br>
-
-## Mi Subtítulo
-
-Este es el contenido.
-</details>
-
-
-
 <details open>
 <summary> Descripción </summary>
 
