@@ -22,6 +22,19 @@
 - **AWS**: https://aws.amazon.com/
 - **JDK-25**: [Descarga](https://www.oracle.com/java/technologies/javase/jdk25-archive-downloads.html)
 
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <h1>Mi Título del Proyecto</h1>
+      <br>
+      <img src="triangles-triangles-v2.png" alt="Fondo" width="600">
+    </td>
+  </tr>
+</table>
+
+
+
 <p align="center">
   <img src="triangles-triangles-v2.png" alt="Título del Proyecto" width="100%">
 </p>
