@@ -2,7 +2,6 @@
 Fecha:
 tags:
 cssclasses:
-  - ".fondo-verde {    background-color: green;}"
 ---
 
 
