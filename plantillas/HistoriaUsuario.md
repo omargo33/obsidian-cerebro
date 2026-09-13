@@ -31,7 +31,7 @@ Acción o funcionalidad, ejemplo: *Solicitar un nuevo link temporizado*
 ### Para
 
 Resultado Esperado: *Una dirección que pueda compartir por diversos medios*
-
+</details>
 <summary> Criterio Aceptación </summary>
 ## Criterio Aceptación 
 
