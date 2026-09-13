@@ -7,7 +7,7 @@ fecha: 2026-09-13
 
 Servicios comprados en AWS y sus configuraciones
 
-### Servicio de Correo 
+### Servicio de Correo SES
 ## 🏁 Tareas
 
 >[!Warning]- *Borrarme*: 
