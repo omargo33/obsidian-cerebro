@@ -23,7 +23,7 @@ fecha: 2026-09-13
 >Presiona  ` ctrl + p `  busca *"task"* y selecciona: *"Create edit Task"*
 
 - [ ] Crear API de markdonw  [priority:: medium]  [due:: 2026-09-13]
-	- [ ] 
+	- [ ] Asegurar el API
 
 ---
 ### 💡Ideas
