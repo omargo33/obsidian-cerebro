@@ -1,6 +1,6 @@
 ---
 tags:
-  - requisitos
+  - hu
 fecha: <% tp.date.now("YYYY-MM-DD") %>
 ---
 # Titulo *Cambiar_Nuevo_Link*
