@@ -13,6 +13,7 @@ fecha: 2026-09-13
 - [ ] Asegurar los puertos de mis productos  [due:: 2206-09-13]
 	- [ ] bases de datos
 	- [ ] Web-ssh
+	- [ ] Portainer
 ## Ideas
 
 ### Tareas Pendientes
