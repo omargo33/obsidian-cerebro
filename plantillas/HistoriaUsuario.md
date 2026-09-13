@@ -23,4 +23,4 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 ### 💡Ideas
-[data](qapaq.site/imagenes/)
+[data](qapaq.site/imagenes/)![[qapaq.site/imagenes/background.jpg]]
