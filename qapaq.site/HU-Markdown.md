@@ -6,11 +6,11 @@ fecha: 2026-09-13
 # *API distribulle Markdown*
 ## Descripción
 
-|   Elemento | Descripcion                                                                                                 |
-| ---------: | ----------------------------------------------------------------------------------------------------------- |
-|   **Como** | Como aplicativo cliente                                                                                     |
-| **Quiero** | Quiero distribuir archivos Markdown para que se visualice en app web REACT para facilitar los detalles <br> |
-|   **Para** | Resultado Esperado: *Una dirección que pueda compartir por diversos medios*                                 |
+|   Elemento | Descripcion                                                                                            |
+| ---------: | ------------------------------------------------------------------------------------------------------ |
+|   **Como** | Como aplicativo cliente                                                                                |
+| **Quiero** | Quiero distribuir archivos Markdown para que se visualice en app web REACT para facilitar los detalles |
+|   **Para** | Resultado Esperado: *Una dirección que pueda compartir por diversos medios*                            |
 ## Criterio Aceptación 
 
 1. ==Que el botón de compartir se haga visible== el momento que este listo el envió
