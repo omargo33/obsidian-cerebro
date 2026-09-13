@@ -8,7 +8,7 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 
 >[!Warning]
 >*Borrarme*: 
->Para generar una tarea pon el siguiente código  ` * [ ] ` y los estados de las tareas son `[ ]` :creada,  `[x]` :terminada,  `[/]` :en proceso, y;  `[-]` :cancelada.
+>Presiona  ` ctr ` y los estados de las tareas son `[ ]` :creada,  `[x]` :terminada,  `[/]` :en proceso, y;  `[-]` :cancelada.
 
 ---
 
