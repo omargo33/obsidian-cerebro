@@ -28,7 +28,8 @@ fecha: 2026-09-13
 	- [ ] Implementar en:
 		- [ ] Políticas de seguridad
 		- [ ] Ley de datos publicos
-		- [ ] Conei
+		- [ ] Contenido hero
+		- [ ] 
 
 ---
 ### 💡Ideas
