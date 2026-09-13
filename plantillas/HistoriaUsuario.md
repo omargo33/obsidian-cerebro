@@ -5,6 +5,18 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 ---
 # Titulo *Nuevo link*
 
+## Descripción
+### Como
+
+Rol que voy a tomar, ejemplo: *Como usuario*
+### Quiero
+
+Acción o funcionalidad, ejemplo: *Solicitar un nuevo link temporizado*
+### Para
+
+Resultado Esperado: *Una dirección que pueda compartir por diversos medios*
+
+
 
 <details open>
 <summary><b>Opción 1 (Inicia abierta)</b></summary>
