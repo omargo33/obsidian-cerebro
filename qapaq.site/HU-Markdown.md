@@ -8,7 +8,7 @@ fecha: 2026-09-13
 
 |   Elemento | Descripcion                                                                 |
 | ----------:| --------------------------------------------------------------------------- |
-|   **Como** | Como aplicativo cliente<br>                                                 |
+|   **Como** | Como aplicativo cliente                                                     |
 | **Quiero** | Acción o funcionalidad, ejemplo: *Solicitar un nuevo link temporizado*<br>  |
 |   **Para** | Resultado Esperado: *Una dirección que pueda compartir por diversos medios* |
 ## Criterio Aceptación 
