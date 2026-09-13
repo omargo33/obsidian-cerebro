@@ -9,5 +9,5 @@
 | S.O        |       |
 | KVM        |       |
 | Memoria    |       |
-|            |       |
+| Disco      |       |
 |            |       |
