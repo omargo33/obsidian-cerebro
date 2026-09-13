@@ -3,7 +3,7 @@ tags:
   - hu
 fecha: 2026-09-13
 ---
-# *API Envio Correo*
+# *API Envió Correo*
 ## Descripción
 
 |   Elemento | Descripcion                                                                |
