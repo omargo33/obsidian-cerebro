@@ -36,5 +36,4 @@ Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.
 - *Uso* una vez instalado se puede llamar usando el comando <code>'/archify' </code>
 
 ---
-*2026-09-12*\ 
-**<#omargo33>**
+*2026-09-12*<br/>**<#omargo33>**
