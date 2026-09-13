@@ -7,7 +7,7 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 
 
 <details>
-<summary> hola </summary>
+<summary> ## Descripci </summary>
 
 </details>
 
