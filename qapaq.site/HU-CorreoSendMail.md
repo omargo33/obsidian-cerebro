@@ -14,7 +14,7 @@ fecha: 2026-09-13
 ## Criterio Aceptación 
 
 1. Un usuario llena el formulario para solicitar información.
-2. El correo debe en
+2. El correo debe enviarse a el mismo usuario
 3. ==En el api== Se solicita un json GET, con un atributo con el contenido de .md.
 4. El contenido esta codificado para ser leido desde una carpeta del sistema operativo
 5. El ciente web debe poder llamar a este API con seguridad
