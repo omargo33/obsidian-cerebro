@@ -11,7 +11,7 @@ tags:
 |  **Propósito** |       |
 |         **Ip** |       |
 | **Puerto ssh** |       |
-|       *Usuario |       |
+|    **Usuario** |       |
 |            S.O |       |
 |            KVM |       |
 |        Memoria |       |
