@@ -15,7 +15,7 @@ fecha: 2026-09-13
 
 1. Un usuario llena el formulario para solicitar información.
 2. El correo debe enviarse a el mismo usuario
-3. El usuario no puede enviar mas de un correo al día. re 
+3. El usuario no puede enviar mas de un correo al día. revisar  
 4. ==En el api== Se solicita un json GET, con un atributo con el contenido de .md.
 5. El contenido esta codificado para ser leido desde una carpeta del sistema operativo
 6. El ciente web debe poder llamar a este API con seguridad
