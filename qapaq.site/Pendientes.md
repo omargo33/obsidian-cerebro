@@ -18,5 +18,3 @@ fecha: 2026-09-13
 	- [ ] USar Keycloak [due:: 2206-09-13]
 ## Ideas
 
-### Tareas Pendientes
-
