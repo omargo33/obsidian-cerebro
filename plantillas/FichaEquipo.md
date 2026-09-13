@@ -6,4 +6,4 @@
 | Ip         |       |
 | Puerto ssh |       |
 | Usuario    |       |
-|            |       |
+| S.O        |       |
