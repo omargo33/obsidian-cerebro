@@ -2,6 +2,7 @@
 ## Tareas
 
 >[!NOTE]
+>Borrame
 
 
 ---
