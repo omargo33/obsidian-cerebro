@@ -5,7 +5,7 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 ---
 ## Como
 
-Explica el como de una historia
+Rol que voy a tomar, ejemplo: 
 
 ## Quiero
 
