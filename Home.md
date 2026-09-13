@@ -14,7 +14,9 @@ sort by scheduled
 
 ``` tasks
 description includes #simplemindmap 
-group by function task.status.typeGroupText group by tags sort by priority sort by due sort by scheduled
+group by tags
+sort by priority
+
 
 
 
