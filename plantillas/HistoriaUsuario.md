@@ -5,7 +5,9 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 ---
 ## Como
 
-Explica el como de una a
+Explica el como de una historia
+
+
 
 
 
