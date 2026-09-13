@@ -2,7 +2,8 @@
 ## Tareas
 
 >[!NOTE]
->Borrame: para 
+>Borrame: 
+>Para generar una tarea pon  
 > ``` markdown
 > * [ ]
 > ```
