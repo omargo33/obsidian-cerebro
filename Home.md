@@ -1,3 +1,7 @@
+---
+tags:
+  - general
+---
 ``` tasks
 
 # has tags
