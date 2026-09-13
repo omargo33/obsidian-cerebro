@@ -23,7 +23,7 @@
 - **JDK-25**: [Descarga](https://www.oracle.com/java/technologies/javase/jdk25-archive-downloads.html)
 
 
-<table align="center">
+<table align="center" style>
   <tr>
     <td align="center">
       <h1>Mi Título del Proyecto</h1>
