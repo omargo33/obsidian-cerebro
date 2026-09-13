@@ -10,7 +10,7 @@ fecha: 2026-09-13
 | ---------: | -------------------------------------------------------------------------- |
 |   **Como** | Como aplicativo cliente                                                    |
 | **Quiero** | Quiero distribuir archivos Markdown para que se visualice en app web REACT |
-|   **Para** | Facilitar la presentacion de detalle                                       |
+|   **Para** | Facilitar la presentación de detalle                                       |
 ## Criterio Aceptación 
 
 1. ==Que el botón de compartir se haga visible== el momento que este listo el envió
