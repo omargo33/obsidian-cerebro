@@ -11,6 +11,6 @@
 ``` tasks
 not done
 due before next week
-group by f
+group by function task
 
 ```
