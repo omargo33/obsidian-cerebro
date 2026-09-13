@@ -1,3 +1,7 @@
+---
+tags:
+  - config
+---
 
 # Ficha de equipo ......
 
