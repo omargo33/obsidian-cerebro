@@ -17,14 +17,6 @@ Acción o funcionalidad, ejemplo: *Solicitar un nuevo link temporizado*
 Resultado Esperado: *Una dirección que pueda compartir por diversos medios*
 
 
-
-<details open>
-<summary> Descripción </summary>
-
-
-</details>
-<details>
-<summary> Criterio Aceptación </summary>
 ## Criterio Aceptación 
 
 - Que el botón de compartir se haga visible el momento que este listo el envio
