@@ -19,7 +19,6 @@
 | ------ | ------- | ---- |
 |        |         |      |
 ## APP's S.O.
-
 - lolcat
 
 ### Config Files
