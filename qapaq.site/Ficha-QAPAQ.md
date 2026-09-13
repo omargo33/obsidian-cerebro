@@ -37,4 +37,4 @@ tags:
 ## 🏁 Tareas
 
 - [ ] Quitar Password y pasarlos por Screts github  [priority:: low]  [due:: 2026-09-13]
-- [ ] Retira
+- [ ] Retirar JAVA y MAVN
