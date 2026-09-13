@@ -20,7 +20,6 @@ Acción o funcionalidad, ejemplo: *Solicitar un nuevo link temporizado*
 Resultado Esperado: *Una dirección que pueda compartir por diversos medios*
 
 
-
 </details>
 
 ## Descripción 
