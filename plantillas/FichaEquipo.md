@@ -22,4 +22,5 @@
 - lolcat
 
 ### Config Files
-- $HOME/.customConfig
+
+- **$HOME/.customConfig**: para personalizar la configuracion 
