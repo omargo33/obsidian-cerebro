@@ -28,7 +28,7 @@ Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.
 
 
 > [!NOTE]
-> El agente esta pagado plan basico, y debe ser revisado periodicamente 
+> El agente esta pagado plan básico, y debe ser revisado periódicamente.
 
 ### Skill
 
