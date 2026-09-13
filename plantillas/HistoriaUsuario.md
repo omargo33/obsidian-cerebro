@@ -12,6 +12,16 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 
 
 
+<details>
+<summary>Haz clic aquí</summary>
+
+## Mi Subtítulo
+
+Este es el contenido.
+</details>
+
+
+
 <details open>
 <summary> Descripción </summary>
 
