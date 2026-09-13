@@ -22,7 +22,8 @@ fecha: 2026-09-13
 >[!Warning]- *Borrarme*: 
 >Presiona  ` ctrl + p `  busca *"task"* y selecciona: *"Create edit Task"*
 
-
+- [ ] Crear API de markdonw  [priority:: medium]  [due:: 2026-09-13]
+	- [ ] 
 
 ---
 ### 💡Ideas
