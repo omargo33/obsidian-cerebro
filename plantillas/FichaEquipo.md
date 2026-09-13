@@ -1,4 +1,4 @@
-# Ficha de equipo
+# Ficha de equipo ......
 
 ### Información del Servidor
 
