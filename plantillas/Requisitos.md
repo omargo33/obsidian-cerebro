@@ -2,7 +2,7 @@
 ## Tareas
 
 >[!NOTE]
->Borrame: 
+>Borrame: para 
 > ``` markdown
 > * [ ]
 > ```
