@@ -8,8 +8,7 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 
 >[!Warning]
 >*Borrarme*: 
->Presiona  ` ctrl + p `  busca *"task"* y seleciona 
-
+>Presiona  ` ctrl + p `  busca *"task"* y selecciona: *"Create edit Task"*
 
 ---
 
