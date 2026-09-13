@@ -5,7 +5,7 @@ fecha: 2026-09-13
 ---
 # AWS
 
-Servicios comprados en AWS y sus configuraciones
+Servicios comprados en AWS y sus configuraciones [Link](https://aws.amazon.com/es/)
 
 ## Servicio de Correo `SES`
 
