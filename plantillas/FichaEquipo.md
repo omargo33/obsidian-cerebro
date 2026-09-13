@@ -12,8 +12,8 @@ tags:
 |         **Ip** |       |
 | **Puerto ssh** |       |
 |    **Usuario** |       |
-|            S.O |       |
-|            KVM |       |
+|        **S.O** |       |
+|          **KVM |       |
 |        Memoria |       |
 |          Disco |       |
 |     Procesador |       |
