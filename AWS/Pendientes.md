@@ -11,6 +11,8 @@ Servicios comprados en AWS y sus configuraciones
 
 El servicio SES requiere de dos  configuraciones la primera para interactuar con API y la segunda con SMTP
 
+
+
 ## 🏁 Tareas
 
 >[!Warning]- *Borrarme*: 
