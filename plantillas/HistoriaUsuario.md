@@ -13,7 +13,8 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 |   **Para** | Resultado Esperado: *Una dirección que pueda compartir por diversos medios* |
 ## Criterio Aceptación 
 
-1. ==Que el botón de compartir se haga visible el momento que este listo el envió
+1. ==Que el botón de compartir se haga visible== el momento que este listo el envió
+2. 
 ---
 ## 🏁 Tareas
 
