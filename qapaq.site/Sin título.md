@@ -6,17 +6,17 @@ tags:
 
 ### Información del Servidor
 
-| Nombre     | Valor |
-| ---------- | ----- |
-| Propósito  |       |
-| Ip         |       |
-| Puerto ssh |       |
-| Usuario    |       |
-| S.O        |       |
-| KVM        |       |
-| Memoria    |       |
-| Disco      |       |
-| Procesador |       |
+| Nombre     | Valor          |
+| ---------- | -------------- |
+| Propósito  | landipage      |
+| Ip         | 142.44.241.249 |
+| Puerto ssh |                |
+| Usuario    |                |
+| S.O        |                |
+| KVM        |                |
+| Memoria    |                |
+| Disco      |                |
+| Procesador |                |
 ### Github Runners
 
 | Nombre | Funcion | Path |
