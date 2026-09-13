@@ -15,7 +15,7 @@ El servicio SES requiere de dos  configuraciones la primera para interactuar con
 
 ### SMTP
 
-Para smtp, se debe configurar desde "SMTP de Mail Manager" en "Configuración de SMTP" se debe descargar el *.csv con la información del servidor
+Para smtp, se debe configurar desde "SMTP de Mail Manager" en "Configuración de SMTP" se debe descargar el *.csv con la información del servidor* y luego se configura en el server de keycloak con estos datos.
 ### API
 
 ## 🏁 Tareas
