@@ -16,6 +16,6 @@ fecha: 2026-09-13
 	- [ ] Usar Docker
 	- [ ] USar Keycloak [due:: 2206-09-13]
 - [ ] Crear una instancia de base de datos solo para Qapaq [due:: 2206-09-13]
-	- [ ] Crear repositorio
-	- [ ] Instanciar base de datos
+	- [ ] Crear repositorio [due:: 2206-09-13]
+	- [ ] Instanciar base de datos [due:: 2206-09-13]
 ## Ideas
