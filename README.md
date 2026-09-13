@@ -28,7 +28,7 @@ Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.
 
 ### Skill
 
-Archify https://github.com/tt-a1i/archify 
+#### Archify https://github.com/tt-a1i/archify 
 
 **promt**: Tengo este sitio https://github.com/tt-a1i/archify puedes usar el skill que aca se describe
 
