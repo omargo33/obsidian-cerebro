@@ -7,16 +7,16 @@ tags:
 
 ### Información del Servidor
 
-| Nombre     | Valor                                                                             |
-| ---------- | --------------------------------------------------------------------------------- |
-| Propósito  | landigpage                                                                        |
-| Ip         | 142.44.241.249                                                                    |
+|     Nombre | Valor                                                                             |
+| ----------:| --------------------------------------------------------------------------------- |
+|  Propósito | landigpage                                                                        |
+|         Ip | 142.44.241.249                                                                    |
 | Puerto ssh | 8022                                                                              |
-| Usuario    | debian                                                                            |
-| S.O        | debian                                                                            |
-| KVM        | https://manager.ca.ovhcloud.com/#/dedicated/vps/vps-65a90309.vps.ovh.ca/dashboard |
-| Memoria    | 4GB                                                                               |
-| Disco      | 40GB                                                                              |
+|    Usuario | debian                                                                            |
+|        S.O | debian                                                                            |
+|        KVM | https://manager.ca.ovhcloud.com/#/dedicated/vps/vps-65a90309.vps.ovh.ca/dashboard |
+|    Memoria | 4GB                                                                               |
+|      Disco | 40GB                                                                              |
 | Procesador | 2 vCores                                                                          |
 ### Github Runners
 
