@@ -21,4 +21,5 @@
 ## APP's S.O.
 
 - lolcat
-- 
+
+### Configuraciones
