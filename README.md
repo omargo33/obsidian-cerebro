@@ -24,7 +24,10 @@
 
 ## Mimo
 
-Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.com/mimocode)
+Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.com/mimocode) y tiene la configurado:
+
+### Skill
+
 
 ---
 *2026-09-12*<br/>**#omargo33**
