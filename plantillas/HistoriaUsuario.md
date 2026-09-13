@@ -18,7 +18,7 @@ Resultado Esperado: *Una dirección que pueda compartir por diversos medios*
 
 ## Criterio Aceptación 
 
-- Que el boton de compartir se haga visible el momento que este listo el envio
+- Que el botón de compartir se haga visible el momento que este listo el envio
 
 
 ## 🏁 Tareas
