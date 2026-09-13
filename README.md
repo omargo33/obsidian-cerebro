@@ -25,6 +25,5 @@
 <p align="center">
   <img src="triangles-triangles-v2.png" alt="Título del Proyecto" width="100%">
 </p>
-
 *2026-09-12*<br/>
 **#omargo33**
