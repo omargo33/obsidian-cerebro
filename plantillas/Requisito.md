@@ -1,5 +1,7 @@
 ---
-Fecha: {{date}}
+Fecha:
+  "{ date }":
+aliases:
 ---
 
 
