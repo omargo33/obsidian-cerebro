@@ -27,9 +27,7 @@
   <tr>
     <td align="center">
       <h1>Mi Título del Proyecto</h1>
-      <br>
-      <img src="triangles-triangles-v2.png" alt="Fondo" width="600">
-    </td>
+      </td>
   </tr>
 </table>
 
