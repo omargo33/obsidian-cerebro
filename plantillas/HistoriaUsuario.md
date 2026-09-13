@@ -17,7 +17,7 @@ Acción o funcionalidad, ejemplo: *Solicitar un nuevo link temporizado*
 
 Resultado Esperado: *Una dirección que pueda compartir por diversos medios*
 
-</
+</div>
 ## Criterio Aceptación 
 
 - Que el botón de compartir se haga visible el momento que este listo el envio
