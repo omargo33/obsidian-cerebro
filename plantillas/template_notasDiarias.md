@@ -13,6 +13,6 @@ not done
 due before next week
 group by function task.status.typeGroupText
 group by tags
-
+sort by prio
 
 ```
