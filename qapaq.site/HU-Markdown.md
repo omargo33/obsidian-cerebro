@@ -29,7 +29,7 @@ fecha: 2026-09-13
 		- [ ] Políticas de seguridad
 		- [ ] Ley de datos publicos
 			- [ ] Contenido hero
-			- [ ] 
+			- [ ] Contenido Scra
 
 ---
 ### 💡Ideas
