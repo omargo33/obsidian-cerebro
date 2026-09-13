@@ -5,6 +5,7 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 ---
 # Titulo *Nuevo link*
 
+<div style="background-color: #2a2d32; padding: 20px; border-radius: 8px; margin: 15px 0;">
 ## Descripción
 ### Como
 
