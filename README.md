@@ -19,6 +19,5 @@ Segundo Cerebro Obsidian
 - **CheckFind**: https://www.checkfind.lat/
 
 ---
-<br/>
 *2024-09-30*<br/>
 **#omargo33**
