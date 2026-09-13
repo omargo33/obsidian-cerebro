@@ -33,3 +33,6 @@ tags:
 
 >[!Warning]- *Borrarme*: 
 >Presiona  ` ctrl + p `  busca *"task"* y selecciona: *"Create edit Task"*
+
+---
+### 💡Ideas
