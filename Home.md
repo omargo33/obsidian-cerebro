@@ -13,6 +13,7 @@ sort by scheduled
 ```
 
 ``` tasks
-description includes 
+description includes #simplemindmap 
+
 
 ```
