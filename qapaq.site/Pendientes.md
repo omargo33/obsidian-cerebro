@@ -14,6 +14,7 @@ fecha: 2026-09-13
 	- [ ] bases de datos
 	- [ ] Web-ssh
 	- [ ] Portainer
+	- [ ] 
 ## Ideas
 
 ### Tareas Pendientes
