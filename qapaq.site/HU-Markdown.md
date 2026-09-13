@@ -13,7 +13,7 @@ fecha: 2026-09-13
 |   **Para** | Facilitar la presentación de detalle                                       |
 ## Criterio Aceptación 
 
-1. ==En el api== Se solicita un json GET, 
+1. ==En el api== Se solicita un json GET, con un atributo con el contenido del 
 2. 
 ---
 ## 🏁 Tareas
