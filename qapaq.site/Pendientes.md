@@ -15,7 +15,8 @@ fecha: 2026-09-13
 	- [ ] Web-ssh
 	- [ ] Portainer
 - [ ] Crear Plantilla para keycloak
-	- [ ] 
+	- [ ] Login
+	- [ ] emai
 ## Ideas
 
 ### Tareas Pendientes
