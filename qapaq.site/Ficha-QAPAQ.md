@@ -1,7 +1,7 @@
 ---
 tags:
   - config
-  - Ficha
+  - ficha
 ---
 # Ficha de equipo # vps-qapaq.site.vps.ovh.ca
 
