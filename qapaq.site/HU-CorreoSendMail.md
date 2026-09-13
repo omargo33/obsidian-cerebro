@@ -20,7 +20,7 @@ fecha: 2026-09-13
 ---
 ## 🏁 Tareas
 
-- [ ] Crear API para envio de correo [priority:: medium]  [due:: 2026-09-13]
+- [ ] Crear API para envió de correo [priority:: medium]  [due:: 2026-09-13]
 	- [ ] Enviar correo con formato al solicitante
 	- [ ] Enviar correos al team de la empresa
 	- [ ] Validar un envió cada (8 horas parametrizadas)
