@@ -26,7 +26,6 @@
 
 Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.com/mimocode) y tiene la configurado:
 
-
 >
 ### Skill
 
