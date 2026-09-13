@@ -33,6 +33,7 @@ tags:
 ### Config Files
 
 - **$HOME/.customConfig**: para personalizar la configuración alterando lo menos posible los  servicios. 
+- 
 
 ## 🏁 Tareas
 
