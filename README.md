@@ -13,4 +13,5 @@ Segundo Cerebro Obsidian
 - **Cloud**: https://www.ovhcloud.com/es/
 - **DNS**: https://www.namecheap.com/
 - **Repositorio**: https://github.com/omargo33
+- 
 
