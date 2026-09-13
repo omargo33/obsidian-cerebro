@@ -23,5 +23,4 @@
 - **JDK-25**: [Descarga](https://www.oracle.com/java/technologies/javase/jdk25-archive-downloads.html)
 
 ---
-
 *2026-09-12*<br/>**#omargo33**
