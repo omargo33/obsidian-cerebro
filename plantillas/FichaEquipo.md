@@ -1,5 +1,5 @@
 # Ficha de equipo
 
-| Nombre | Valor |
-| ------ | ----- |
-| Ip     |       |
+| Nombre    | Valor |
+| --------- | ----- |
+| Proposito |       |
