@@ -10,7 +10,7 @@ fecha: 2026-09-13
 | ---------: | ----------------------------------------------------------------- |
 |   **Como** | Como usuario del sitio de landingpage                             |
 | **Quiero** | Quiero Solicitar información de la empresa vía correo(telefónico) |
-|   **Para** | Facilitar la presentación de detalle                              |
+|   **Para** | Facilitar la puesta en contacto con los usuarios                  |
 ## Criterio Aceptación 
 
 1. ==En el api== Se solicita un json GET, con un atributo con el contenido de .md.
