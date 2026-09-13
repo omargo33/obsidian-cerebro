@@ -12,10 +12,11 @@ Rol que voy a tomar, ejemplo: *Como usuario*
 ### Quiero
 
 Acción o funcionalidad, ejemplo: *Solicitar un nuevo link temporizado*
-## Para
+### Para
 
 Resultado Esperado: *Una dirección que pueda compartir por diversos medios*
 
+## 
 
 
 ## 🏁 Tareas
