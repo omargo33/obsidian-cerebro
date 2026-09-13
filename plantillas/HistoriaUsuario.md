@@ -6,7 +6,6 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 ## Como
 
 Rol que voy a tomar, ejemplo: *Como usuario*
-
 ## Quiero
 
 Acción o funcionalidad, ejemplo: *Solicitar un nuevo link temporizado*
