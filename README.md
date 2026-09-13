@@ -32,7 +32,7 @@ Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.
 
 - **Url**: https://github.com/tt-a1i/archify
 - **promt**: Tengo este sitio https://github.com/tt-a1i/archify puedes usar el skill que aca se describe
-- uso 
+- 
 
 ---
 *2026-09-12*<br/>**#omargo33**
