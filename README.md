@@ -28,7 +28,7 @@ Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.
 
 ### Skill
 
-**Archify** https://github.com/tt-a1i/archify
+**Archify** https://github.com/tt-a1i/archify 
 
 ---
 *2026-09-12*<br/>**#omargo33**
