@@ -11,6 +11,6 @@
 ``` tasks
 not done
 
-due before n
+due before next we
 
 ```
