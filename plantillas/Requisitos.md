@@ -3,7 +3,7 @@
 
 >[!NOTE]
 >Borrame: 
->Para generar una tarea pon el siguiente codigo  ` * [ ] ` y los estados de las tareas son `[ ]` :creada,  
+>Para generar una tarea pon el siguiente codigo  ` * [ ] ` y los estados de las tareas son `[ ]` :creada, `[]`  
 
 
 
