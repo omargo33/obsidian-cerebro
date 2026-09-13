@@ -6,11 +6,11 @@ fecha: 2026-09-13
 # *API Envió Correo*
 ## Descripción
 
-|   Elemento | Descripcion                                           |
-| ---------: | ----------------------------------------------------- |
-|   **Como** | Como usuario del sitio de landingpage                 |
-| **Quiero** | Quiero Solicitar información de la empresa via correo |
-|   **Para** | Facilitar la presentación de detalle                  |
+|   Elemento | Descripcion                                                   |
+| ---------: | ------------------------------------------------------------- |
+|   **Como** | Como usuario del sitio de landingpage                         |
+| **Quiero** | Quiero Solicitar información de la empresa via correo(telefo) |
+|   **Para** | Facilitar la presentación de detalle                          |
 ## Criterio Aceptación 
 
 1. ==En el api== Se solicita un json GET, con un atributo con el contenido de .md.
