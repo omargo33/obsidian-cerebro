@@ -27,6 +27,7 @@ tags:
 ## APP's S.O.
 - **lolcat**: visualización arco iris. 
 - tree: visualizar árbol 
+- **htop**: visualizacion procesos
 
 ### Config Files
 
