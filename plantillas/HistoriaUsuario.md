@@ -6,6 +6,7 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 # Titulo *Nuevo link*
 
 
+<details
 
 ## Descripción 
 ### Como
