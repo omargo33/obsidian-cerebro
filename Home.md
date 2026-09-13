@@ -17,7 +17,7 @@ description includes #simplemindmap
 group by tags
 sort by priority
 sort by due
-sort by 
+sort by scheduled
 
 
 
