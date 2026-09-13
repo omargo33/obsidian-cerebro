@@ -7,4 +7,4 @@ Segundo Cerebro Obsidian
 - Advanced Tables: https://github.com/tgrosinger/advanced-tables-obsidian
 - *Excalidraw* https://github.com/zsviczian/obsidian-excalidraw-plugin
 - Simple mind map: https://github.com/wanglin2/obsidian-simplemindmap
-- Git Sync: 
+- Git Sync: https://github.com/livan116/github-valut-sync
