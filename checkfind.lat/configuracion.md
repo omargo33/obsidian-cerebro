@@ -2,6 +2,7 @@
 path: checkfind.lat/configuracion.md
 tags:
   - simplemindmap
+  - config
 type: mindmap
 mindmap-layout: tree
 mindmap-theme: midnight
