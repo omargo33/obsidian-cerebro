@@ -9,7 +9,7 @@ tags:
 >*Borrarme*: 
 >Para generar una tarea pon el siguiente código  ` * [ ] ` y los estados de las tareas son `[ ]` :creada,  `[x]` :terminada,  `[/]` :en proceso, y;  `[-]` :cancelada.
 
-- [ ] poner nuevos datos  [priority:: lowest]
+- [ ] poner nuevos datos  [priority:: lowest]  [due:: 2026-07-13]
 
 ---
 
