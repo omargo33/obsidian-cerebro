@@ -25,9 +25,6 @@ Para API,  se debe configurar desde "Credenciales SMTP de IAM" en "Configuració
 
 ## 🏁 Tareas
 
->[!Warning]- *Borrarme*: 
->Presiona  ` ctrl + p `  busca *"task"* y selecciona: *"Create edit Task"*
-
 - [ ] Crear una libreria comun para el envió de correos, configurable.  [priority:: highest]  [due:: 2026-09-13]
 
 ---
