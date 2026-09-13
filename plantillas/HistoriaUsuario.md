@@ -7,9 +7,8 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 
 
 <details>
-<summary> ## Descripci </summary>
+<summary> ## Descripción </summary>
 
-##  
 ### Como
 
 Rol que voy a tomar, ejemplo: *Como usuario*
