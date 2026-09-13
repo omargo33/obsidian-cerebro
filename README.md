@@ -1,6 +1,6 @@
 # Cerebro
 
-![[triangles-triangles-v2.png]]
+![[triangles-triangles-v2.png]
 
 Segundo Cerebro Obsidian
 
