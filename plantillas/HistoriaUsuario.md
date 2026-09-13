@@ -32,7 +32,7 @@ Acción o funcionalidad, ejemplo: *Solicitar un nuevo link temporizado*
 
 Resultado Esperado: *Una dirección que pueda compartir por diversos medios*
 </details>
-</details>
+<details>
 <summary> Criterio Aceptación </summary>
 ## Criterio Aceptación 
 
