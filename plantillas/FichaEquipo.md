@@ -13,3 +13,4 @@
 | Memoria    |       |     |
 | Disco      |       |     |
 | Procesador |       |     |
+### 
