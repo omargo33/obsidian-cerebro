@@ -19,7 +19,7 @@ Segundo Cerebro Obsidian
 - **CheckFind**: https://www.checkfind.lat/
 - **Diseno**: [38Sitios](https://www.reddit.com/r/webdev/comments/15x3eph/38_websites_you_can_use_for_cool_backgrounds/?tl=es-419)
 - **Coolors.co**: https://coolors.co/
-- ** https://aws.amazon.com/
+- **AWS** https://aws.amazon.com/
 ---
 *2026-09-12*<br/>
 **#omargo33**
