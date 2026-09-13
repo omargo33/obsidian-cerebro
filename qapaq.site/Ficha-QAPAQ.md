@@ -33,7 +33,7 @@ tags:
 ### Config Files
 
 - **$HOME/.customConfig**: para personalizar la configuración alterando lo menos posible los  servicios. 
-- [[config-Qapaq.site]]
+- Mapa del sitio [[config-Qapaq.site]]
 
 ## 🏁 Tareas
 
