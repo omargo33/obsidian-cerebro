@@ -11,7 +11,7 @@ Servicios comprados en AWS y sus configuraciones [Link](https://aws.amazon.com/e
 El servicio SES requiere de dos  configuraciones la primera para interactuar con API y la segunda con SMTP
 
 > [!NOTE]
-> - Esta anclado a mi usuario  <omargo33@gmail.com> y al tarjeta de **bankard**
+> - Esta anclado a mi usuario  <omargo33@gmail.com> y al tarjeta de **Bankard**
 
 ### SMTP
 
