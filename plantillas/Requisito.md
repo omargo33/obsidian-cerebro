@@ -1,7 +1,7 @@
 ---
 Fecha:
 tags:
-cssclasses:
+type: mindmap
 ---
 
 
