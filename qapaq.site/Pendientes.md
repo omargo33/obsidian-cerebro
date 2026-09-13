@@ -14,6 +14,7 @@ fecha: 2026-09-13
 	- [ ] Login
 	- [ ] email
 - [ ] Instalar `manager` [due:: 2206-09-13]
+	- [ ] Usar Docker
 	- [ ] 
 ## Ideas
 
