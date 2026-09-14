@@ -1,7 +1,7 @@
 
 # Muleto
 
-## Configuracion de variables y secretos:
+## Configuración de variables y secretos:
 
 Las variables y secretos de GitHub Actions se deben grabar ==en la **configuración del repositorio u organización** de GitHub==, y nunca directamente en el código fuente.
 
