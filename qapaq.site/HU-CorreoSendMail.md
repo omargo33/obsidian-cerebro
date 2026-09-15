@@ -22,7 +22,7 @@ fecha: 2026-09-13
 
 - [ ] Crear API para envió de correo [priority:: medium]  [due:: 2026-09-13]
 	- [x] Enviar correo con formato al solicitante  [completion:: 2026-09-14]
-	- [ ] Enviar correos al team de la empresa
+	- [ ] Enviar correos al team de la empresa  [due:: 2026-09-13]
 	- [x] Validar un envió cada (8 horas parametrizadas)  [completion:: 2026-09-14]
 
 ---
