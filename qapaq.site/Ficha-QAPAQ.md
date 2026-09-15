@@ -41,4 +41,5 @@ Para ver las tareas pendiente de desarrollo y componentes [[Pendientes]]
 Para las tareas de configuración, incluir a continuación:
 
 - [ ] Quitar Password y pasarlos por Screts github  [ priority:: high]   [due:: 2026-09-13]
+	- [ ] Retirar de 
 - [x] Retirar JAVA y MAVEN para dejar solo por docker las instancias  [priority:: low]  [due:: 2026-09-13]  [completion:: 2026-09-13]
