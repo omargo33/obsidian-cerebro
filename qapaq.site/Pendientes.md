@@ -20,5 +20,6 @@ fecha: 2026-09-13
 	- [ ] Crear repositorio [due:: 2206-09-13]
 	- [ ] Instanciar base de datos [due:: 2206-09-13]
 - [ ] Asegurar *github actions* [due:: 2206-09-14]
-	- [ ] Bases de Datos
+	- [ ] Bases de Datos [due:: 2206-09-14]
+	- [ ] 
 ## Ideas
