@@ -23,4 +23,5 @@ fecha: 2026-09-13
 	- [ ] Bases de Datos [due:: 2206-09-14]
 	- [x] Configuración SitioWEB  [due:: 2206-09-14]  [completion:: 2026-09-14]
 	- [x] Manager  [due:: 2206-09-14]  [completion:: 2026-09-14]
+	- [ ] Sitio
 ## Ideas
