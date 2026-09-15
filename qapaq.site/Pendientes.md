@@ -22,5 +22,5 @@ fecha: 2026-09-13
 - [ ] Asegurar *github actions* [due:: 2206-09-14]
 	- [ ] Bases de Datos [due:: 2206-09-14]
 	- [ ] Configuración SitioWEB [due:: 2206-09-14]
-	- [ ] Manager [due:: 2206-09-14]
+	- [x] Manager  [due:: 2206-09-14]  [completion:: 2026-09-14]
 ## Ideas
