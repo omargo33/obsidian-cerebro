@@ -19,5 +19,6 @@ fecha: 2026-09-13
 - [ ] Crear una instancia de base de datos solo para Qapaq [due:: 2206-09-13]
 	- [ ] Crear repositorio [due:: 2206-09-13]
 	- [ ] Instanciar base de datos [due:: 2206-09-13]
-- [ ] Asegurar *github actions* 
+- [ ] Asegurar *github actions* [due:: 2206-09-14]
+	- [ ] 
 ## Ideas
