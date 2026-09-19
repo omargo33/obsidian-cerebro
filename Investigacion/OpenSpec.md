@@ -8,6 +8,7 @@ Lo que OpenSpec ofrece:
 - Y otros comandos más
 Para usarlo en tu proyecto, necesitarías:
 # 1. Instalar el CLI globalmente
+
 ```bash
 npm install -g @fission-ai/openspec@latest
 # 2. Inicializar en tu proyecto
