@@ -29,4 +29,4 @@ openspec init          # Inicializa OpenSpec en el proyecto
 
 ## Video
 
-[Video](https://www.youtube.com/watch?v=-A7seYcvNZo
+[Video](https://www.youtube.com/watch?v=-A7seYcvNZo)
