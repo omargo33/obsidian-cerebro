@@ -1,2 +1,2 @@
 
-Uso de openSpec para documentar las especifiaciones del sistema
+Uso de openSpec para documentar las especificaciones del sistema
