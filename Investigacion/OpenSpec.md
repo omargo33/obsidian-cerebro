@@ -26,3 +26,7 @@ openspec init          # Inicializa OpenSpec en el proyecto
 # Comandos principales:
 
 ![[openspec-workflows.png]]
+
+## Video
+
+https://www.youtube.com/watch?v=-A7seYcvNZo
