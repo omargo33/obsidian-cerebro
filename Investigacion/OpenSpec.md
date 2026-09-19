@@ -1,8 +1,4 @@
 
-Uso de openSpec para documentar las especificaciones del sistema
-
-https://github.com/Fission-AI/OpenSpec/
-
 OpenSpec es un framework de desarrollo driven por specs para asistentes de AI. Tiene sus propios skills diseñados para su CLI (@fission-ai/openspec), no para MiMoCode directamente.
 Lo que OpenSpec ofrece:
 - /opsx:propose - Crear una propuesta de cambio con specs
