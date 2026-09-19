@@ -46,5 +46,6 @@ Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.
 - **promt**: Tengo este sitio https://github.com/tt-a1i/archify puedes usar el skill que aca se describe
 - *Uso* una vez instalado se puede llamar usando el comando <code>'/archify' </code>
 
+
 ---
 *2026-09-12*<br/>**<#omargo33>**
