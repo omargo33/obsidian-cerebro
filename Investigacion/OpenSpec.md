@@ -28,6 +28,8 @@ Uso básico:
 ```
 cd tu-proyecto
 openspec init          # Inicializa OpenSpec en el proyecto
+
+```
 # Comandos principales:
 openspec change        # Gestionar propuestas de cambio
 openspec list          # Listar cambios y specs
