@@ -1,2 +1,2 @@
 
-Archify: Es un producto para generar 
+Archify: Es un producto para generar diagramas de arquitectura
