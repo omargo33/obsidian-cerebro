@@ -13,8 +13,11 @@ Para usarlo en tu proyecto, necesitarías:
 npm install -g @fission-ai/openspec@latest
 # 2. Inicializar en tu proyecto
 cd tu-proyecto
-```
+
 openspec init
+```
+
+
 Esto instalará los skills en tu proyecto y registraría los comandos slash.
 Perfecto, voy a instalar OpenSpec globalmente para que puedas usarlo desde cualquier terminal.
 Instalado. Verifico que funciona:
