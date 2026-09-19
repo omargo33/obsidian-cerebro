@@ -25,6 +25,7 @@ OpenSpec v1.13.1 instalado globalmente. Ya puedes usarlo desde cualquier termina
 Uso básico:
 # En tu proyecto:
 
+```
 cd tu-proyecto
 openspec init          # Inicializa OpenSpec en el proyecto
 # Comandos principales:
