@@ -48,7 +48,7 @@ Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.
 
 [[OpenSpec]]
 
-	- **url**: https://github.com/tt-a1i/archify
+- **Irl**: https://github.com/tt-a1i/archify
 - **promt**: Tengo este sitio https://github.com/tt-a1i/archify puedes usar el skill que aca se describe
 - *Uso* una vez instalado se puede llamar usando el comando <code>'/archify' </code>
 
