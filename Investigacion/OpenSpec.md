@@ -37,4 +37,4 @@ openspec spec          # Gestionar especificaciones
 openspec archive       # Archivar cambios completados
 openspec doctor        # Diagnosticar problemas
 openspec config        # Configuración
-Los slash commands (/opsx:propose, /opsx:explore, /opsx:apply) funcionan dentro de asistentes de AI compatibles (Cursor, Copilot, Claude, etc.) después de hacer openspec init.
+Los slash commands (/opsx:propose, /opsx:explore, /opsx:apply) funcionan dentro de asistentes de AI compatibles (Cursor, Copilot, Claude, etc.) después de hacer openspec init.![[openspec-workflows.png]]
