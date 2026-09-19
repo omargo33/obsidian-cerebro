@@ -49,5 +49,6 @@ Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.
 [[OpenSpec]]
 
 
+
 ---
 *2026-09-12*<br/>**<#omargo33>**
