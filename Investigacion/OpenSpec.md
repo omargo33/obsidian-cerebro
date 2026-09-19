@@ -8,10 +8,11 @@ Lo que OpenSpec ofrece:
 - Y otros comandos más
 Para usarlo en tu proyecto, necesitarías:
 # 1. Instalar el CLI globalmente
-```b
+```bash
 npm install -g @fission-ai/openspec@latest
 # 2. Inicializar en tu proyecto
 cd tu-proyecto
+```
 openspec init
 Esto instalará los skills en tu proyecto y registraría los comandos slash.
 Perfecto, voy a instalar OpenSpec globalmente para que puedas usarlo desde cualquier terminal.
