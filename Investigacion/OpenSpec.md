@@ -30,11 +30,5 @@ cd tu-proyecto
 openspec init          # Inicializa OpenSpec en el proyecto
 ```
 # Comandos principales:
-openspec change        # Gestionar propuestas de cambio
-openspec list          # Listar cambios y specs
-openspec view          # Dashboard interactivo
-openspec spec          # Gestionar especificaciones
-openspec archive       # Archivar cambios completados
-openspec doctor        # Diagnosticar problemas
-openspec config        # Configuración
-Los slash commands (/opsx:propose, /opsx:explore, /opsx:apply) funcionan dentro de asistentes de AI compatibles (Cursor, Copilot, Claude, etc.) después de hacer openspec init.![[openspec-workflows.png]]
+
+![[openspec-workflows.png]]
