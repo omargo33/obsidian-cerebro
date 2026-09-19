@@ -17,12 +17,6 @@ cd tu-proyecto
 openspec init
 ```
 
-
-Esto instalará los skills en tu proyecto y registraría los comandos slash.
-Perfecto, voy a instalar OpenSpec globalmente para que puedas usarlo desde cualquier terminal.
-Instalado. Verifico que funciona:
-OpenSpec v1.13.1 instalado globalmente. Ya puedes usarlo desde cualquier terminal.
-Uso básico:
 # En tu proyecto:
 
 ```bash
