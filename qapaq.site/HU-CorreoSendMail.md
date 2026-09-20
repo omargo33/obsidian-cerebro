@@ -24,7 +24,7 @@ fecha: 2026-09-13
 	- [x] Enviar correo con formato al solicitante  [completion:: 2026-09-14]
 	- [x] Enviar correos al team de la empresa  [due:: 2026-09-13]  [completion:: 2026-09-20]
 	- [x] Validar un envió cada (8 horas parametrizadas)  [completion:: 2026-09-14]
-	- [ ] Implementar en el sitio WEB [due:: 2026-09-20] 
+	- [x] Implementar en el sitio WEB  [due:: 2026-09-20]  [completion:: 2026-09-20]
 	- [x] Analizar el poner el mensaje en base 64 para impedir "sql inyection"  [due:: 2026-09-20]  [completion:: 2026-09-20]
 		- [x] Decisión del análisis  [due:: 2026-09-20]  [completion:: 2026-09-20] No es procedente
 
