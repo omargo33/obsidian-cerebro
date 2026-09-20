@@ -22,7 +22,7 @@ fecha: 2026-09-13
 
 - [ ] Crear API para envió de correo [priority:: medium]  [due:: 2026-09-13]
 	- [x] Enviar correo con formato al solicitante  [completion:: 2026-09-14]
-	- [ ] Enviar correos al team de la empresa  [due:: 2026-09-13]
+	- [x] Enviar correos al team de la empresa  [due:: 2026-09-13]  [completion:: 2026-09-20]
 	- [x] Validar un envió cada (8 horas parametrizadas)  [completion:: 2026-09-14]
 	- [ ] Implementar en el sitio WEB [due:: 2026-09-20] 
 	- [ ] Analizar el poner el mensaje en base 64 para impedir "sql inyection" [due:: 2026-09-20]
