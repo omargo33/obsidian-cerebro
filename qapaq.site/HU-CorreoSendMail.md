@@ -25,7 +25,7 @@ fecha: 2026-09-13
 	- [ ] Enviar correos al team de la empresa  [due:: 2026-09-13]
 	- [x] Validar un envió cada (8 horas parametrizadas)  [completion:: 2026-09-14]
 	- [ ] Implementar en el sitio WEB [due:: 2026-09-20] 
-	- [ ] Analizar el poner el mensaje en base 64 para impedir 
+	- [ ] Analizar el poner el mensaje en base 64 para impedir sql inyection Implementar en el sitio WEB [due:: 2026-09-20]
 
 ---
 ### 💡Ideas
