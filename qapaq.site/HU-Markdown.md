@@ -29,6 +29,7 @@ fecha: 2026-09-13
 			- [ ] Contenido hero [due:: 2026-09-13]
 			- [ ] Contenido Scraping [due:: 2026-09-13]
 			- [ ] Contenido Qbic [due:: 2026-09-13]
+			- [ ] Politicas 
 
 ---
 ### 💡Ideas
