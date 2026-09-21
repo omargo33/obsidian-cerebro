@@ -30,7 +30,7 @@ fecha: 2026-09-13
 			- [ ] Contenido Scraping [due:: 2026-09-13]
 			- [ ] Contenido Qbic [due:: 2026-09-13]
 			- [ ] Politicas [due:: 2026-09-20] 
-			- [ ] Informacion envio contactos [due]
+			- [ ] Informacion envio contactos [due:: 2026-09-20] 
 
 ---
 ### 💡Ideas
