@@ -29,7 +29,7 @@ fecha: 2026-09-13
 			- [ ] Contenido hero [due:: 2026-09-13]
 			- [ ] Contenido Scraping [due:: 2026-09-13]
 			- [ ] Contenido Qbic [due:: 2026-09-13]
-			- [ ] Políticas  [due:: 2026-09-20]
+			- [-] Políticas  [due:: 2026-09-20]
 			- [ ] Información envió contactos [due:: 2026-09-20] 
 
 ---
