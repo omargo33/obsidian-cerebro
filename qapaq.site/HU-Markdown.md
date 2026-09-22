@@ -24,7 +24,6 @@ fecha: 2026-09-13
 	- [x] Implementar API-REST client  [due:: 2026-09-13]  [completion:: 2026-09-20]
 	- [-] Implementar en:  [due:: 2026-09-13]
 		- [x] Políticas de seguridad  [due:: 2026-09-13]  [completion:: 2026-09-20]
-		- [-] Ley de datos publicos  [due:: 2026-09-13]
 		- [ ] Contenido  [due:: 2026-09-13]
 			- [ ] Contenido hero [due:: 2026-09-13]
 			- [ ] Contenido Scraping [due:: 2026-09-13]
