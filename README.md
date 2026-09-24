@@ -40,12 +40,20 @@ Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.
 
 ### Skill
 
-#### Archify 
+#### [[Archify]]
 
 - **Url**: https://github.com/tt-a1i/archify
 - **promt**: Tengo este sitio https://github.com/tt-a1i/archify puedes usar el skill que aca se describe
 - **promt**: Agrégalo como skill a nivel global
 - *Uso* una vez instalado reiniciar el chatbot y se puede llamar usando el comando <code>'/archify' </code>
+
+[[OpenSpec]]
+
+- **Url**: https://github.com/Fission-AI/OpenSpec/
+- **promt**: Tengo este sitio https://github.com/Fission-AI/OpenSpec/ puedes usar el skill que aca se describe
+- *Uso* una vez instalado se puede llamar usando el comando <code>'/archify' </code>
+
+
 
 ---
 *2026-09-12*<br/>**<#omargo33>**

@@ -15,15 +15,18 @@ fecha: 2026-09-13
 
 1. Un usuario llena el formulario para solicitar información.
 2. El correo debe enviarse a el mismo usuario
-3. El usuario no puede enviar mas de un correo al día. revisar por IP de solicitud en 24 horas 
+3. El usuario no puede enviar mas de un correo al día. revisar por IP de solicitud en 8 horas 
 4. ==En el api== debe enviar un correo a las personas del team ventas de Qapaq dentro de la parametria del sistema.
 ---
 ## 🏁 Tareas
 
 - [ ] Crear API para envió de correo [priority:: medium]  [due:: 2026-09-13]
-	- [ ] Enviar correo con formato al solicitante
-	- [ ] Enviar correos al team de la empresa
-	- [ ] Validar un envió cada (8 horas parametrizadas)
+	- [x] Enviar correo con formato al solicitante  [completion:: 2026-09-14]
+	- [x] Enviar correos al team de la empresa  [due:: 2026-09-13]  [completion:: 2026-09-20]
+	- [x] Validar un envió cada (8 horas parametrizadas)  [completion:: 2026-09-14]
+	- [x] Implementar en el sitio WEB  [due:: 2026-09-20]  [completion:: 2026-09-20]
+	- [x] Analizar el poner el mensaje en base 64 para impedir "sql inyection"  [due:: 2026-09-20]  [completion:: 2026-09-20]
+		- [x] Decisión del análisis  [due:: 2026-09-20]  [completion:: 2026-09-20] No es procedente
 
 ---
 ### 💡Ideas
