@@ -19,17 +19,17 @@ fecha: 2026-09-13
 ---
 ## 🏁 Tareas
 
-- [ ] Crear API de markdonw  [priority:: medium]  [due:: 2026-09-13]
+- [x] Crear API de markdonw  [priority:: medium]  [due:: 2026-09-13]  [completion:: 2026-09-24]
 	- [x] Asegurar el API  [due:: 2026-09-13]  [completion:: 2026-09-20]
 	- [x] Implementar API-REST client  [due:: 2026-09-13]  [completion:: 2026-09-20]
 	- [-] Implementar en:  [due:: 2026-09-13]
 		- [x] Políticas de seguridad  [due:: 2026-09-13]  [completion:: 2026-09-20]
-		- [ ] Contenido  [due:: 2026-09-13]
+		- [x] Contenido  [due:: 2026-09-13]  [completion:: 2026-09-24]
 			- [x] Contenido hero  [due:: 2026-09-13]  [completion:: 2026-09-24]
 			- [x] Contenido Scraping  [due:: 2026-09-13]  [completion:: 2026-09-24]
 			- [x] Contenido Qbic  [due:: 2026-09-13]  [completion:: 2026-09-24]
 			- [x] Políticas  [due:: 2026-09-20]  [completion:: 2026-09-21]
-			- [ ] Panel de info por 10 segundos [due:: 2026-09-24] 
+			- [x] Panel de info por 10 segundos  [due:: 2026-09-24]  [completion:: 2026-09-24]
 			- [x] Información envió contactos  [due:: 2026-09-20]  [completion:: 2026-09-21]
 
 ---
