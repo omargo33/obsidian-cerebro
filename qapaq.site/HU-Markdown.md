@@ -29,6 +29,7 @@ fecha: 2026-09-13
 			- [x] Contenido Scraping  [due:: 2026-09-13]  [completion:: 2026-09-24]
 			- [x] Contenido Qbic  [due:: 2026-09-13]  [completion:: 2026-09-24]
 			- [x] Políticas  [due:: 2026-09-20]  [completion:: 2026-09-21]
+			- [ ] Panel de info por 10 segundos 
 			- [x] Información envió contactos  [due:: 2026-09-20]  [completion:: 2026-09-21]
 
 ---
