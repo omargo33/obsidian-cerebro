@@ -25,9 +25,9 @@ fecha: 2026-09-13
 	- [-] Implementar en:  [due:: 2026-09-13]
 		- [x] Políticas de seguridad  [due:: 2026-09-13]  [completion:: 2026-09-20]
 		- [ ] Contenido  [due:: 2026-09-13]
-			- [ ] Contenido hero [due:: 2026-09-13]
-			- [ ] Contenido Scraping [due:: 2026-09-13]
-			- [ ] Contenido Qbic [due:: 2026-09-13]
+			- [x] Contenido hero  [due:: 2026-09-13]  [completion:: 2026-09-24]
+			- [x] Contenido Scraping  [due:: 2026-09-13]  [completion:: 2026-09-24]
+			- [x] Contenido Qbic  [due:: 2026-09-13]  [completion:: 2026-09-24]
 			- [x] Políticas  [due:: 2026-09-20]  [completion:: 2026-09-21]
 			- [x] Información envió contactos  [due:: 2026-09-20]  [completion:: 2026-09-21]
 
