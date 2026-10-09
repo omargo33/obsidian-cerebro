@@ -47,6 +47,7 @@ Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.
 - **promt**: Agrégalo como skill a nivel global
 - *Uso* una vez instalado reiniciar el chatbot y se puede llamar usando el comando <code>'/archify' </code>
 
+
 [[OpenSpec]]
 
 - **Url**: https://github.com/Fission-AI/OpenSpec/
