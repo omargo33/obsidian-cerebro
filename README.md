@@ -54,6 +54,17 @@ MCP
 En donde se agrega:
 
 ```bash
+{
+  "$schema": "https://mimo.xiaomi.com/mimocode/config.json",
+  "mcp": {
+    "maven-tools": {
+      "type": "command", // o "local" dependiendo de tu instalación
+      "command": "uvx", // Si usas Python/uv para ejecutar el MCP de forma rápida
+      "args": ["maven-mcp"], 
+      "enabled": true
+    }
+  }
+}
 
 ```
 
