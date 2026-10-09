@@ -66,6 +66,8 @@ En donde se agrega:
 }
 ```
 
+Luego 
+
 [[OpenSpec]]
 
 - **Url**: https://github.com/Fission-AI/OpenSpec/
