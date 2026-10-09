@@ -26,7 +26,6 @@ fecha: 2026-09-13
 	- [ ] SitioWEB [due:: 2206-09-14]
 - [ ] Sentralizar un unico deploy GithubAcctions para sitio QAPAQ.site
 	- [ ] Desconectar base de datos [due::2206-10-09 ]
-	- [ ] Desconectar sitio
-	- [ ] Desconectar 
-	- [ ] 
+	- [ ] Desconectar sitio [due::2206-10-09 ]
+	- [ ] Desconectar  [due::2206-10-09 ]
 ## Ideas
