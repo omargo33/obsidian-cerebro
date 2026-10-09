@@ -51,6 +51,8 @@ MCP
 
 . **Maven**: el MCP de MAVEN se configura de dos maneras, global o local por proyecto, y en: `.mimocode/mimocode.jsonc` `~/.config/mimocode/mimocode.jsonc`
 
+En od
+
 [[OpenSpec]]
 
 - **Url**: https://github.com/Fission-AI/OpenSpec/
