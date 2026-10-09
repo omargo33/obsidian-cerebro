@@ -49,7 +49,7 @@ Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.
 
 MCP
 
-. **Maven**: el MCP de MAVEN se configura de dos maneras, global o local por proyecto, y requi`.mimocode/mimocode.jsonc`) o de forma global (`~/.config/mimocode/mimocode.jsonc`
+. **Maven**: el MCP de MAVEN se configura de dos maneras, global o local por proyecto, y en: `.mimocode/mimocode.jsonc`) o de forma global (`~/.config/mimocode/mimocode.jsonc`
 
 [[OpenSpec]]
 
