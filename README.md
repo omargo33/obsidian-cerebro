@@ -53,7 +53,7 @@ MCP
 
 En donde se agrega:
 
-```b
+```bash
 
 [[OpenSpec]]
 
