@@ -24,7 +24,7 @@ fecha: 2026-09-13
 	- [x] Configuración SitioWEB  [due:: 2206-09-14]  [completion:: 2026-09-14]
 	- [x] Manager  [due:: 2206-09-14]  [completion:: 2026-09-14]
 	- [ ] SitioWEB [due:: 2206-09-14]
-- [ ] Sentralizar un unico deploy para sitio QAPAQ.site
+- [ ] Sentralizar un unico deploy GithubAcctions para sitio QAPAQ.site
 	- [ ] Desconectar base de datos [due::2206-09-14 ]
 	- [ ] Desconectar sitio
 	- [ ] Desconectar 
