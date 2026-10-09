@@ -27,6 +27,6 @@ fecha: 2026-09-13
 - [ ] Sentralizar un unico deploy para sitio QAPAQ.site
 	- [ ] Desconectar base de datos [📅 2026-10-09 ]
 	- [ ] Desconectar sitio
-	- [ ] Des
+	- [ ] Desconectar 
 	- [ ] 
 ## Ideas
