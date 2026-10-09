@@ -24,5 +24,5 @@ fecha: 2026-09-13
 	- [x] Configuración SitioWEB  [due:: 2206-09-14]  [completion:: 2026-09-14]
 	- [x] Manager  [due:: 2206-09-14]  [completion:: 2026-09-14]
 	- [ ] SitioWEB [due:: 2206-09-14]
-- [ ] Sentralizar un unico deploy para 
+- [ ] Sentralizar un unico deploy para sitio QAQ
 ## Ideas
