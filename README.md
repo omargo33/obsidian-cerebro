@@ -57,11 +57,11 @@ En donde se agrega:
 {
 	"$schema": "https://mimo.xiaomi.com/mimocode/config.json",
 	"mcp": {
-	"maven-tools": {
-	"type": "local",
-	"command": ["npx", "-y", "mcp-maven-deps"],
-	"enabled": true
-	}
+		"maven-tools": {
+		"type": "local",
+		"command": ["npx", "-y", "mcp-maven-deps"],
+		"enabled": true
+		}
 	}
 }
 ```
