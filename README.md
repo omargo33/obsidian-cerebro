@@ -66,7 +66,7 @@ En donde se agrega:
 }
 ```
 
-Luego ejecutas `npm install -g mcp-maven-deps
+Luego ejecutas `npm install -g mcp-maven-deps` y usas mimo para estas labores. 
 
 
 [[OpenSpec]]
