@@ -49,6 +49,8 @@ Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.
 
 MCP
 
+	
+
 [[OpenSpec]]
 
 - **Url**: https://github.com/Fission-AI/OpenSpec/
