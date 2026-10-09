@@ -55,14 +55,14 @@ En donde se agrega:
 
 ```bash
 {
-"$schema": "https://mimo.xiaomi.com/mimocode/config.json",
-"mcp": {
-"maven-tools": {
-"type": "local",
-"command": ["npx", "-y", "mcp-maven-deps"],
-"enabled": true
-}
-}
+	"$schema": "https://mimo.xiaomi.com/mimocode/config.json",
+	"mcp": {
+	"maven-tools": {
+	"type": "local",
+	"command": ["npx", "-y", "mcp-maven-deps"],
+	"enabled": true
+	}
+	}
 }
 ```
 
