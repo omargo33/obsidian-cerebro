@@ -49,7 +49,7 @@ Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.
 
 MCP
 
-. **Maven**: el mcp de mave
+. **Maven**: el mcp de maven se configura d
 
 [[OpenSpec]]
 
