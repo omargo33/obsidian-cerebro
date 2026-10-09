@@ -66,7 +66,7 @@ En donde se agrega:
 }
 ```
 
-Luego npm install -g mcp-maven-deps
+Luego ` npm install -g mcp-maven-deps
 
 
 [[OpenSpec]]
