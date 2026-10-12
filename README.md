@@ -81,6 +81,19 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 
 **JAVA**
 ```bash
+{
+  "recommendations": [
+    
+    "lennardv.set-window-color-name",
+    "esbenp.prettier-vscode",
+    "jcruz.openspec-viewer",
+    "bowlerr.offline-markdown-preview",
+    "zaaack.markdown-editor",
+    "ms-azuretools.vscode-containers",
+    "github.vscode-github-actions",
+    "redhat.fabric8-analytics"
+  ]
+}
 
 ```
 
