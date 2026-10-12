@@ -81,8 +81,6 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 
 **JAVA**
 
-`extensions.json`
-
 ```bash
 {
   "recommendations": [
