@@ -85,11 +85,12 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 
 ```
 
-**Pytho**
+**Python**
 
 ```bash
 
 ```
+
 
 
 ---
