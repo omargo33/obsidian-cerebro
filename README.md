@@ -85,5 +85,12 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 
 ```
 
+**JAVA**
+
+```bash
+
+```
+
+
 ---
 *2026-09-12*<br/>**<#omargo33>**
