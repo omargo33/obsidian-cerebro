@@ -77,7 +77,7 @@ Luego ejecutas `npm install -g mcp-maven-deps` y usas mimo para estas labores.
 
 #### VS-Code
 
-Para los sistemas se usa configu
+Para los sistemas se usa configuraciones de e
 
 ```bash
 
