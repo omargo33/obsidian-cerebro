@@ -75,7 +75,7 @@ Luego ejecutas `npm install -g mcp-maven-deps` y usas mimo para estas labores.
 - **promt**: Tengo este sitio https://github.com/Fission-AI/OpenSpec/ puedes usar el skill que aca se describe
 - *Uso* una vez instalado se puede llamar usando el comando <code>'/archify' </code>
 
-###
+#### VS-
 
 ---
 *2026-09-12*<br/>**<#omargo33>**
