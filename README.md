@@ -99,7 +99,17 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 
 **Python**
 ```bash
-
+{
+  "recommendations": [
+    "lennardv.set-window-color-name",
+    "ms-python.python",
+    "ms-python.debugpy",
+    "ms-python.vscode-python-envs",
+    "esbenp.prettier-vscode",
+    "ms-toolsai.jupyter",
+    "github.vscode-github-actions"
+  ]
+}
 ```
 
 **WEB**
