@@ -84,7 +84,6 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 ```bash
 {
   "recommendations": [
-    
     "lennardv.set-window-color-name",
     "esbenp.prettier-vscode",
     "jcruz.openspec-viewer",
