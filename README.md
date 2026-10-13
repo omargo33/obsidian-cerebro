@@ -116,20 +116,35 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 **WEB**
 ```bash
 {
-  "recommendations": [
-    "usernamehw.errorlens",
-    "kisstkondoros.vscode-gutter-preview",
-    "ms-vscode.live-server",
-    "idered.npm",
-    "jcruz.openspec-viewer",
-    "Jacano.vscode-pnpm",
-    "esbenp.prettier-vscode",
-    "rvest.vs-code-prettier-eslint",
-    "lennardv.set-window-color-name",
-    "bowlerr.offline-markdown-preview",
-    "zaaack.markdown-editor",
-    "WakaTime.vscode-wakatime"
-  ]
+
+"recommendations": [
+
+"bowlerr.offline-markdown-preview",
+
+"esbenp.prettier-vscode",
+
+"idered.npm",
+
+"Jacano.vscode-pnpm",
+
+"jcruz.openspec-viewer",
+
+"kisstkondoros.vscode-gutter-preview",
+
+"lennardv.set-window-color-name",
+
+"ms-vscode.live-server",
+
+"rvest.vs-code-prettier-eslint",
+
+"usernamehw.errorlens",
+
+"WakaTime.vscode-wakatime",
+
+"zaaack.markdown-editor"
+
+]
+
 }
 ```
 
