@@ -121,9 +121,8 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 		"esbenp.prettier-vscode",
 		"idered.npm",
 		"Jacano.vscode-pnpm",
-		
 		"jcruz.openspec-viewer",
-		
+
 		"kisstkondoros.vscode-gutter-preview",
 		
 		"lennardv.set-window-color-name",
