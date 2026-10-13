@@ -83,28 +83,27 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 
 ```bash
 {
-
-"recommendations": [
-
-"bowlerr.offline-markdown-preview",
-
-"esbenp.prettier-vscode",
-
-"github.vscode-github-actions",
-
-"jcruz.openspec-viewer",
-
-"lennardv.set-window-color-name",
-
-"ms-azuretools.vscode-containers",
-
-"redhat.fabric8-analytics",
-
-"WakaTime.vscode-wakatime",
-
-"zaaack.markdown-editor"
-
-]
+	"recommendations": [
+	
+	"bowlerr.offline-markdown-preview",
+	
+	"esbenp.prettier-vscode",
+	
+	"github.vscode-github-actions",
+	
+	"jcruz.openspec-viewer",
+	
+	"lennardv.set-window-color-name",
+	
+	"ms-azuretools.vscode-containers",
+	
+	"redhat.fabric8-analytics",
+	
+	"WakaTime.vscode-wakatime",
+	
+	"zaaack.markdown-editor"
+	
+	]
 
 }```
 
