@@ -124,9 +124,7 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 		"jcruz.openspec-viewer",
 		"kisstkondoros.vscode-gutter-preview",
 		"lennardv.set-window-color-name",
-
 		"ms-vscode.live-server",
-		
 		"rvest.vs-code-prettier-eslint",
 		
 		"usernamehw.errorlens",
