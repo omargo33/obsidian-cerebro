@@ -120,7 +120,6 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 		"bowlerr.offline-markdown-preview",
 		"esbenp.prettier-vscode",
 		"idered.npm",
-		
 		"Jacano.vscode-pnpm",
 		
 		"jcruz.openspec-viewer",
