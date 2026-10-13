@@ -106,8 +106,7 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
     "ms-python.vscode-python-envs",
     "esbenp.prettier-vscode",
     "ms-toolsai.jupyter",
-    "github.vscode-github-actions"
-,
+    "github.vscode-github-actions",
     "WakaTime.vscode-wakatime"
   ]
 }
