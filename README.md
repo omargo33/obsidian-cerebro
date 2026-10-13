@@ -116,9 +116,7 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 **WEB**
 ```bash
 {
-
-	"recommendations": [
-	
+	"recommendations": [	
 		"bowlerr.offline-markdown-preview",
 		
 		"esbenp.prettier-vscode",
