@@ -130,7 +130,6 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 		"WakaTime.vscode-wakatime",
 		"zaaack.markdown-editor"
 	]
-
 }
 ```
 
