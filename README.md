@@ -125,7 +125,8 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
     "rvest.vs-code-prettier-eslint",
     "lennardv.set-window-color-name",
     "bowlerr.offline-markdown-preview",
-    "zaaack.markdown-editor"
+    "zaaack.markdown-editor",
+    "WakaTime.vscode-wakatime"
   ]
 }
 ```
