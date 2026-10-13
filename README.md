@@ -101,14 +101,14 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 ```bash
 {
 	"recommendations": [
-	"esbenp.prettier-vscode",
-	"github.vscode-github-actions",
-	"lennardv.set-window-color-name",
-	"ms-python.debugpy",
-	"ms-python.python",
-	"ms-python.vscode-python-envs",
-	"ms-toolsai.jupyter",
-	"WakaTime.vscode-wakatime"
+		"esbenp.prettier-vscode",
+		"github.vscode-github-actions",
+		"lennardv.set-window-color-name",
+		"ms-python.debugpy",
+		"ms-python.python",
+		"ms-python.vscode-python-envs",
+		"ms-toolsai.jupyter",
+		"WakaTime.vscode-wakatime"
 	]
 }
 ```
