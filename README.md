@@ -117,33 +117,33 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 ```bash
 {
 
-"recommendations": [
-
-	"bowlerr.offline-markdown-preview",
+	"recommendations": [
 	
-	"esbenp.prettier-vscode",
+		"bowlerr.offline-markdown-preview",
+		
+		"esbenp.prettier-vscode",
+		
+		"idered.npm",
+		
+		"Jacano.vscode-pnpm",
+		
+		"jcruz.openspec-viewer",
+		
+		"kisstkondoros.vscode-gutter-preview",
+		
+		"lennardv.set-window-color-name",
+		
+		"ms-vscode.live-server",
+		
+		"rvest.vs-code-prettier-eslint",
+		
+		"usernamehw.errorlens",
+		
+		"WakaTime.vscode-wakatime",
+		
+		"zaaack.markdown-editor"
 	
-	"idered.npm",
-	
-	"Jacano.vscode-pnpm",
-	
-	"jcruz.openspec-viewer",
-	
-	"kisstkondoros.vscode-gutter-preview",
-	
-	"lennardv.set-window-color-name",
-	
-	"ms-vscode.live-server",
-	
-	"rvest.vs-code-prettier-eslint",
-	
-	"usernamehw.errorlens",
-	
-	"WakaTime.vscode-wakatime",
-	
-	"zaaack.markdown-editor"
-
-]
+	]
 
 }
 ```
