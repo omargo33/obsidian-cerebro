@@ -107,6 +107,8 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
     "esbenp.prettier-vscode",
     "ms-toolsai.jupyter",
     "github.vscode-github-actions"
+,
+    "WakaTime.vscode-wakatime"
   ]
 }
 ```
