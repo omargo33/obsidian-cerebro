@@ -52,8 +52,8 @@ TasteSkill
 - **Url**: https://www.tasteskill.dev/
 - Install: `npx skills add Leonxlnx/taste-skill`
 - Se debe instalar el redesing-existing-project <- revisa en google los tools del sking
-- **promt**: /openspec-propose revisemos el diseno del aplicativo con una skill de redesing-existing-projects
-- **promt**: /openspec-update-change puedes agregar en la propuesta, que use de manera purista el framework de radix-iu.
+- **promt**: `/openspec-propose revisemos el diseno del aplicativo con una skill de redesing-existing-projects`
+- **promt**: `/openspec-update-change puedes agregar en la propuesta, que use de manera purista el framework de radix-iu.`
 
 MCP
 
