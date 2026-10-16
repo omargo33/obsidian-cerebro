@@ -50,7 +50,8 @@ Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.
 
 TasteSkill
 - **Url**: https://www.tasteskill.dev/
-- Install: npx skills add Leonxlnx/taste-skill
+- Install: `npx skills add Leonxlnx/taste-skill`
+- 
 
 MCP
 
