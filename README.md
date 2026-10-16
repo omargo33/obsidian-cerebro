@@ -51,7 +51,8 @@ Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.
 TasteSkill
 - **Url**: https://www.tasteskill.dev/
 - Install: `npx skills add Leonxlnx/taste-skill`
-- Se debe instalar el redesing-existing-project
+- Se debe instalar el redesing-existing-project <- revisa en google los tools del sking
+- Se puede agregar el p
 
 MCP
 
