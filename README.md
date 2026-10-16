@@ -49,8 +49,7 @@ Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.
 
 
 TasteSkill
-
-https://www.tasteskill.dev/
+- **Url**: https://www.tasteskill.dev/
 
 MCP
 
