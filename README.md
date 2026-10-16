@@ -48,7 +48,8 @@ Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.
 - *Uso* una vez instalado reiniciar el chatbot y se puede llamar usando el comando <code>'/archify' </code>
 
 
-TasteSk
+TasteSkill
+
 https://www.tasteskill.dev/
 
 MCP
