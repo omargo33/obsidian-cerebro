@@ -47,6 +47,10 @@ Para agente de IA de desarrollo se usa *mimo* de [mimoCode](https://mimo.xiaomi.
 - **promt**: Agrégalo como skill a nivel global
 - *Uso* una vez instalado reiniciar el chatbot y se puede llamar usando el comando <code>'/archify' </code>
 
+
+
+https://www.tasteskill.dev/
+
 MCP
 
 . **Maven**: el MCP de MAVEN se configura de dos maneras, global o local por proyecto, y en: `.mimocode/mimocode.jsonc` `~/.config/mimocode/mimocode.jsonc`
