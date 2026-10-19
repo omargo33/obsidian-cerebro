@@ -137,7 +137,8 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 		"rvest.vs-code-prettier-eslint",
 		"usernamehw.errorlens",
 		"WakaTime.vscode-wakatime",
-		"zaaack.markdown-editor","
+		"zaaack.markdown-editor",
+		"streetsidesoftware.code-spell-checker-spanish"
 	]
 }
 ```
