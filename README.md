@@ -116,7 +116,7 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 		"ms-python.python",
 		"ms-python.vscode-python-envs",
 		"ms-toolsai.jupyter",
-		"WakaTime.vscode-wakatime"
+		"WakaTime.vscode-wakatime",""
 	]
 }
 ```
