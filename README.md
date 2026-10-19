@@ -99,7 +99,7 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 		"ms-azuretools.vscode-containers",
 		"redhat.fabric8-analytics",
 		"WakaTime.vscode-wakatime",
-		"zaaack.markdown-editor"
+		"zaaack.markdown-editor","
 	]
 }
 ```
