@@ -99,11 +99,9 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 		"lennardv.set-window-color-name",
 		"ms-azuretools.vscode-containers",
 		"redhat.fabric8-analytics",
-"streetsidesoftware.code-spell-checker-spanish",
-
-"WakaTime.vscode-wakatime",
-
-"zaaack.markdown-editor",
+		"streetsidesoftware.code-spell-checker-spanish",
+		"WakaTime.vscode-wakatime",
+		"zaaack.markdown-editor",
 	]
 }
 ```
