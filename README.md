@@ -92,15 +92,10 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 {
 	"recommendations": [
 		"bowlerr.offline-markdown-preview",
-
-"esbenp.prettier-vscode",
-
-"github.vscode-github-actions",
-
-"humao.rest-client",
-
-"jcruz.openspec-viewer",
-
+		"esbenp.prettier-vscode",
+		"github.vscode-github-actions",
+		"humao.rest-client",
+		"jcruz.openspec-viewer",
 "lennardv.set-window-color-name",
 
 "ms-azuretools.vscode-containers",
