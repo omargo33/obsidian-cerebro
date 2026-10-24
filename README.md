@@ -96,12 +96,9 @@ Para los sistemas se usa configuraciones de extensiones para tres distintos perf
 		"github.vscode-github-actions",
 		"humao.rest-client",
 		"jcruz.openspec-viewer",
-"lennardv.set-window-color-name",
-
-"ms-azuretools.vscode-containers",
-
-"redhat.fabric8-analytics",
-
+		"lennardv.set-window-color-name",
+		"ms-azuretools.vscode-containers",
+		"redhat.fabric8-analytics",
 "streetsidesoftware.code-spell-checker-spanish",
 
 "WakaTime.vscode-wakatime",
